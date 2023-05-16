@@ -18,8 +18,13 @@
   "nfts": [
     {
       "type": "ERC-1155",
-      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+      "address": "0xcAf8d4dD875995548c4f634eF5036fe005CD0b6b",
       "name": "Intelligent Monsters"
+    },
+    {
+      "type": "ERC-721",
+      "address": "0xff693fb6829B40f1Aad4759c08d86D20fD5e4893",
+      "name": "Bitci Bots"
     }
   ]
 }
