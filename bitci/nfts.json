@@ -1,0 +1,25 @@
+{
+  "name": "Intelligent Monsters NFTs",
+  "timestamp": "2022-10-20T17:29:34.056Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg",
+  "keywords": [
+    "bitci",
+    "tokens",
+    "defi",
+    "refi",
+    "nft"
+  ],
+  "nfts": [
+    {
+      "type": "ERC-1155",
+      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+      "name": "Intelligent Monsters"
+    }
+  ]
+}
