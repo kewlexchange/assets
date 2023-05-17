@@ -27,6 +27,11 @@
       "name": "NANICO"
     },
     {
+      "type": "ERC-1155",
+      "address": "0xA4f6C84C6db2F2bD70a1cF5637c070E9Be9ea791",
+      "name": "IMON"
+    },
+    {
       "type": "ERC-721",
       "address": "0xff693fb6829B40f1Aad4759c08d86D20fD5e4893",
       "name": "Bitci Bots"
