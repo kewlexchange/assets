@@ -22,6 +22,11 @@
       "name": "Intelligent Monsters"
     },
     {
+      "type": "ERC-1155",
+      "address": "0x9D44984Dd6CBAe3F53303081eaA844Dc8af82F9b",
+      "name": "NANICO"
+    },
+    {
       "type": "ERC-721",
       "address": "0xff693fb6829B40f1Aad4759c08d86D20fD5e4893",
       "name": "Bitci Bots"
