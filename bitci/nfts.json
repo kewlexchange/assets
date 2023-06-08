@@ -35,6 +35,11 @@
       "type": "ERC-721",
       "address": "0xff693fb6829B40f1Aad4759c08d86D20fD5e4893",
       "name": "BITCI BOTS"
+    },
+    {
+      "type": "ERC-721",
+      "address": "0xe436983b149964a9fe22a0c058560137418cf785",
+      "name": "Galaxiaverse Alpha Pass"
     }
   ]
 }
