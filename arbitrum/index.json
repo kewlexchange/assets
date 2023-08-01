@@ -1,0 +1,44 @@
+{
+  "name": "Any Swap Default",
+  "timestamp": "2022-10-20T17:29:34.056Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg",
+  "keywords": [
+    "arbitrum",
+    "tokens",
+    "defi",
+    "refi",
+    "imondex"
+  ],
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+      "name": "Intelligent Monsters",
+      "symbol": "IMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa15907F3e7fDD0a83ec56F4aC543Cb10F4D783EB",
+      "name": "KEWL Token",
+      "symbol": "KEWL",
+      "decimals": 18,
+      "logoURI": "https://kewl.io/assets/kewl-fd90bca9.png"
+    }
+  ]
+}
