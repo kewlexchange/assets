@@ -33,6 +33,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
+            "name": "Galatasaray S.K.",
+            "symbol": "GAL",
+            "decimals": 0,
+            "logoURI": "https://cms-cdn.avascan.com/cms2/GAL.d3652a62bfd7"
+        },
+        {
+            "chainId": 88888,
             "address": "0xD1723Eb9e7C6eE7c7e2d421B2758dc0f2166eDDc",
             "name": "Flamengo",
             "symbol": "MENGO",
@@ -87,14 +95,7 @@
             "decimals": 0,
             "logoURI": "https://cms-cdn.avascan.com/cms2/ARG.29c33d10eb29.svg"
         },
-        {
-            "chainId": 88888,
-            "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
-            "name": "Galatasaray S.K.",
-            "symbol": "GAL",
-            "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/GAL.d3652a62bfd7"
-        },
+    
         {
             "chainId": 88888,
             "address": "0x6401b29F40a02578Ae44241560625232A01B3F79",
