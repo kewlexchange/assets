@@ -29,7 +29,7 @@
             "name": "Wrapped Chiliz",
             "symbol": "WCHZ",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
