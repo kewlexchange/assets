@@ -1,6 +1,6 @@
 {
     "name": "Any Swap Default",
-    "timestamp": "2023-11-29T17:29:34.056Z",
+    "timestamp": "2023-12-02T17:29:34.056Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -721,14 +721,6 @@
         },
         {
             "chainId": 88888,
-            "address": "0x3dECe9c4fAc1f7762Ec40f1743bFfcC53e20C184",
-            "name": "Token1",
-            "symbol": "TKN1",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
-        },
-        {
-            "chainId": 88888,
             "address": "0x3e483d4382aC9aEC472afB170C7C12a10867a775",
             "name": "Timon Dog Token",
             "symbol": "TIMON",
@@ -741,22 +733,6 @@
             "name": "Mercedes Fan Token",
             "symbol": "MERC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0x8D13054a6b2518720C3329bd5b9A1cC8068C1902",
-            "name": "Token2",
-            "symbol": "TKN2",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0xCa533e9321AE3bf5cc800380BaF81CeDed0bf9e7",
-            "name": "Token2",
-            "symbol": "TKN2",
-            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
@@ -781,14 +757,6 @@
             "name": "MEM ERC20 Token",
             "symbol": "MEM",
             "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0x199E05fC2Fb171FC98032004b2F91B5CD7eb7716",
-            "name": "ChilizInu",
-            "symbol": "ChzInu",
-            "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
