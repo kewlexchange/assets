@@ -669,7 +669,7 @@
             "name": "ChilizInu",
             "symbol": "ChzInu",
             "decimals": 4,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -677,7 +677,7 @@
             "name": "Joe Grech Fan Token",
             "symbol": "JOE",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -685,7 +685,7 @@
             "name": "Football at AlphaVerse",
             "symbol": "FAV",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -693,7 +693,7 @@
             "name": "Token1",
             "symbol": "TKN1",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -701,7 +701,7 @@
             "name": "Haas Fan Token",
             "symbol": "HAAS",
             "decimals": 0,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -709,7 +709,7 @@
             "name": "Wrapped CHZ",
             "symbol": "CHZ",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -717,7 +717,7 @@
             "name": "Alfa Romeo Fan Token",
             "symbol": "ALFA",
             "decimals": 0,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -725,7 +725,7 @@
             "name": "Ferrari Fan Token",
             "symbol": "FERR",
             "decimals": 0,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -733,7 +733,7 @@
             "name": "Token1",
             "symbol": "TKN1",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -741,7 +741,7 @@
             "name": "Timon Dog Token",
             "symbol": "TIMON",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -749,7 +749,7 @@
             "name": "Mercedes Fan Token",
             "symbol": "MERC",
             "decimals": 0,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -757,7 +757,7 @@
             "name": "Token2",
             "symbol": "TKN2",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -765,7 +765,7 @@
             "name": "Token2",
             "symbol": "TKN2",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -773,7 +773,7 @@
             "name": "Jules Fan Token",
             "symbol": "JUL",
             "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -781,7 +781,7 @@
             "name": "Protocol GPT Token",
             "symbol": "PGPT",
             "decimals": 2,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -789,15 +789,7 @@
             "name": "MEM ERC20 Token",
             "symbol": "MEM",
             "decimals": 2,
-            "logoURI": null
-        },
-        {
-            "chainId": 88888,
-            "address": "0xf8e8506fE73b0a8efb929f6edfb7059d6D2F95f2",
-            "name": "Wrapped Ether v10",
-            "symbol": "WETH10",
-            "decimals": 18,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -805,7 +797,7 @@
             "name": "ChilizInu",
             "symbol": "ChzInu",
             "decimals": 4,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -813,15 +805,7 @@
             "name": "ChiliKitten Token",
             "symbol": "ChiliKitten",
             "decimals": 8,
-            "logoURI": null
-        },
-        {
-            "chainId": 88888,
-            "address": "0x5619A31C5776c50e4A3f6DD3E07be13f4efa211C",
-            "name": "",
-            "symbol": "",
-            "decimals": 6,
-            "logoURI": null
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         }
     ]
 }
