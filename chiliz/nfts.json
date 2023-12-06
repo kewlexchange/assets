@@ -1,0 +1,25 @@
+{
+    "name": "Intelligent Monsters NFTs",
+    "timestamp": "2022-10-20T17:29:34.056Z",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://cdn.routescan.io/_next/image?url=https%3A%2F%2Fcms-cdn.avascan.com%2Fcms2%2Fchiliz.png&w=64&q=75",
+    "keywords": [
+      "bitci",
+      "tokens",
+      "defi",
+      "refi",
+      "nft"
+    ],
+    "nfts": [
+      {
+        "type": "ERC-1155",
+        "address": "0x3456e402A1445E276E69a0043D47DC6480E0A432",
+        "name": "INTELLIGENT MONSTERS"
+      }
+    ]
+  }
