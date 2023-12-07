@@ -28,6 +28,11 @@
         },
         {
             "type": "ERC-721",
+            "address": "0xfb917E76927e2BED4361bAa088c6e680E8546c4B",
+            "name": "Legend & Chiliz: The Genesis"
+        },
+        {
+            "type": "ERC-721",
             "address": "0xD70004485F675A1acFDbA2E91376805533796a0E",
             "name": "Socios Collectibles (SCS)"
         },
