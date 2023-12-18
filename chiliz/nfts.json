@@ -22,6 +22,12 @@
             "name": "INTELLIGENT MONSTERS"
         },
         {
+            "type": "ERC-1155",
+            "address": "0x270024b8eC458D4BA839e12f70D8cEb9b1F481b7",
+            "name": "CHILIMOTION (CHILIMON)"
+        },
+        
+        {
             "type": "ERC-721",
             "address": "0x3A6dbEf7D6F98161994e12dc830D8B3974864c4d",
             "name": "NftSoccerGames"
