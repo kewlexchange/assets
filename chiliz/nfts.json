@@ -16,6 +16,12 @@
         "nft"
     ],
     "nfts": [
+        
+        {
+            "type": "ERC-721",
+            "address": "0xe7CfdE2d4E5E75Af9fdE567c70431F35EcBbc47F",
+            "name": "Chiliz Name Service"
+        },
         {
             "type": "ERC-1155",
             "address": "0x3456e402A1445E276E69a0043D47DC6480E0A432",
