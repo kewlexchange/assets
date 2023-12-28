@@ -17,6 +17,11 @@
   ],
   "nfts": [
     {
+      "type": "ERC-721",
+      "address": "0xe7CfdE2d4E5E75Af9fdE567c70431F35EcBbc47F",
+      "name": "IMON NAME SERVERS"
+    },
+    {
       "type": "ERC-1155",
       "address": "0xcAf8d4dD875995548c4f634eF5036fe005CD0b6b",
       "name": "INTELLIGENT MONSTERS"
