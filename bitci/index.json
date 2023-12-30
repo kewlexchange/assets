@@ -33,6 +33,14 @@
     },
     {
       "chainId": 1907,
+      "name": "NeuroPulse AI",
+      "symbol": "NPAI",
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NPAI.svg",
+      "address": "0x02C7B38Acc83d87680B740498eF7C90B54ceb062",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "McLaren F1 Fan Token",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
