@@ -28,6 +28,11 @@
             "name": "INTELLIGENT MONSTERS"
         },
         {
+            "type": "ERC-721",
+            "address": "0x93bf3D67364e59d005e90b2358216dB107103a58",
+            "name": "IMON MOLE Collection"
+        },
+        {
             "type": "ERC-1155",
             "address": "0x270024b8eC458D4BA839e12f70D8cEb9b1F481b7",
             "name": "CHILIMOTION (CHILIMON)"
