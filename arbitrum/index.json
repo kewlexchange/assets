@@ -38,7 +38,7 @@
       "name": "KEWL Token",
       "symbol": "KEWL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/arbitrum/tokens/0xa15907F3e7fDD0a83ec56F4aC543Cb10F4D783EB/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/0xa15907F3e7fDD0a83ec56F4aC543Cb10F4D783EB/logo.png"
     },
     {
       "chainId": 42161,
