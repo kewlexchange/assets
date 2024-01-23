@@ -34,6 +34,14 @@
     },
     {
       "chainId": 42161,
+      "address": "0x99Bd9444C841286291964ECe900b4b25E908D716",
+      "name": "HOOPOE",
+      "symbol": "HOOP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/0x99Bd9444C841286291964ECe900b4b25E908D716/logo.svg"
+    },
+    {
+      "chainId": 42161,
       "address": "0xa15907F3e7fDD0a83ec56F4aC543Cb10F4D783EB",
       "name": "KEWL Token",
       "symbol": "KEWL",
