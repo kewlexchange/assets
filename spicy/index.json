@@ -1,0 +1,62 @@
+{
+    "name": "Any Swap Default",
+    "timestamp": "2022-10-20T17:29:34.056Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://cdn.routescan.io/_next/image?url=https%3A%2F%2Fcms-cdn.avascan.com%2Fcms2%2Fchiliz.png&w=64&q=75",
+    "keywords": [
+        "chiliz",
+        "spicy",
+        "testnet",
+        "tokens",
+        "defi",
+        "refi",
+        "imondex"
+    ],
+    "tokens": [
+        {
+            "chainId": 88882,
+            "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+            "name": "Intelligent Monsters",
+            "symbol": "IMON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+            "name": "Wrapped Chiliz",
+            "symbol": "WCHZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0x370BAe51E225D820cb7946e0Dd5b225FE5A65803",
+            "name": "AC Milan",
+            "symbol": "ACM",
+            "decimals": 0,
+            "logoURI": "https://cms-cdn.avascan.com/cms2/ACM.bbee50df0809"
+        },
+        {
+            "chainId": 88882,
+            "address": "0xbd64B25CB19254a9500105C85bFb460fd8d37655",
+            "name": "Arsenal FC",
+            "symbol": "AFC",
+            "decimals": 0,
+            "logoURI": "https://cms-cdn.avascan.com/cms2/AFC.470b9638998f.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0xbd64B25CB19254a9500105C85bFb460fd8d37655",
+            "name": "FC Barcelona",
+            "symbol": "BAR",
+            "decimals": 0,
+            "logoURI": "https://cms-cdn.avascan.com/cms2/FCB.06c01e371442.svg"
+        }
+    ]
+}
