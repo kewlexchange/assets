@@ -35,6 +35,14 @@
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
         },
         {
+            "chainId": 88888,
+            "address": "0x28eB90D2356F44A60B6496418C818EfeFA7081e2",
+            "name": "ChilizInu",
+            "symbol": "ChzInu",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001/logo.png"
+        },
+        {
             "chainId": 88882,
             "address": "0x370BAe51E225D820cb7946e0Dd5b225FE5A65803",
             "name": "AC Milan",
