@@ -44,6 +44,22 @@
         },
         {
             "chainId": 88882,
+            "address": "0x3977ADE5b5B69274f5B11a44f5f1F509A87af976",
+            "name": "FANFANTOKEN",
+            "symbol": "FANFANTOKEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0x9Ebc67543a5c99CE72F5afcEb9EB500E556dc970",
+            "name": "CHEMY",
+            "symbol": "CHEMY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+        },
+        {
+            "chainId": 88882,
             "address": "0x370BAe51E225D820cb7946e0Dd5b225FE5A65803",
             "name": "AC Milan",
             "symbol": "ACM",
