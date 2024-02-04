@@ -47,7 +47,7 @@
             "address": "0x3977ADE5b5B69274f5B11a44f5f1F509A87af976",
             "name": "FANFANTOKEN",
             "symbol": "FANFANTOKEN",
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/spicy/tokens/0x3977ADE5b5B69274f5B11a44f5f1F509A87af976/logo.jpg"
         },
         {
@@ -55,7 +55,7 @@
             "address": "0x9Ebc67543a5c99CE72F5afcEb9EB500E556dc970",
             "name": "CHEMY",
             "symbol": "CHEMY",
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/spicy/tokens/0x9Ebc67543a5c99CE72F5afcEb9EB500E556dc970/logo.jpg"
         },
         {
