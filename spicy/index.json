@@ -60,6 +60,14 @@
         },
         {
             "chainId": 88882,
+            "address": "0xd7a52e679342209f307184fC486b97B87501DCbd",
+            "name": "Atlético de Madrid",
+            "symbol": "ATM",
+            "decimals": 0,
+            "logoURI": "https://cms-cdn.avascan.com/cms2/ATM.8220ca6e049d"
+        },
+        {
+            "chainId": 88882,
             "address": "0x370BAe51E225D820cb7946e0Dd5b225FE5A65803",
             "name": "AC Milan",
             "symbol": "ACM",
