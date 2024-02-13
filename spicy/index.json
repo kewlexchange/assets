@@ -28,6 +28,14 @@
         },
         {
             "chainId": 88882,
+            "address": "0x92dbf73f7f3223e91a12498d6d72a4c632dbc207",
+            "name": "Intelligent Monsters 404",
+            "symbol": "IMON404",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+        },
+        {
+            "chainId": 88882,
             "address": "0x721EF6871f1c4Efe730Dce047D40D1743B886946",
             "name": "Wrapped Chiliz",
             "symbol": "WCHZ",
