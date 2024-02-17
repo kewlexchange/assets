@@ -678,7 +678,7 @@
             "name": "MEM ERC20 Token",
             "symbol": "MEM",
             "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721EF6871f1c4Efe730Dce047D40D1743B886946/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0000000000000000000000000000000000000000/logo.svg"
         }
     ]
 }
