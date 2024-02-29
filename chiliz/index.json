@@ -37,7 +37,7 @@
             "name": "Galatasaray S.K.",
             "symbol": "GAL",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/GAL.d3652a62bfd7"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d/logo.svg"
         },
         {
             "chainId": 88888,
@@ -45,7 +45,7 @@
             "name": "Flamengo",
             "symbol": "MENGO",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/MENGO.0465b5c94b15"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xD1723Eb9e7C6eE7c7e2d421B2758dc0f2166eDDc/logo.svg"
         },
         {
             "chainId": 88888,
@@ -53,7 +53,7 @@
             "name": "Arsenal FC",
             "symbol": "AFC",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/AFC.470b9638998f.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1d4343d35f0E0e14C14115876D01dEAa4792550b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -61,7 +61,7 @@
             "name": "AC Milan",
             "symbol": "ACM",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/ACM.bbee50df0809"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xF9C0F80a6c67b1B39bdDF00ecD57f2533ef5b688/logo.svg"
         },
         {
             "chainId": 88888,
@@ -69,7 +69,7 @@
             "name": "Corinthians",
             "symbol": "SCCP",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/SCCP.04fe1ecd44cd"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x20BFeab58f8bE903753d037Ba7e307fc77c97388/logo.svg"
         },
         {
             "chainId": 88888,
@@ -77,7 +77,7 @@
             "name": "Inter Milan",
             "symbol": "INTER",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/INTER-2.2473745a304d.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc727c9C0f2647CB90B0FCA64d8ddB14878716BeD/logo.svg"
         },
         {
             "chainId": 88888,
@@ -85,7 +85,7 @@
             "name": "Juventus",
             "symbol": "JUV",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/JUV.b898c5468041"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x454038003a93cf44766aF352F74bad6B745616D0/logo.svg"
         },
         {
             "chainId": 88888,
@@ -93,7 +93,7 @@
             "name": "Argentina",
             "symbol": "ARG",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/ARG.29c33d10eb29.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xd34625c1c812439229EF53e06f22053249D011f5/logo.svg"
         },
     
         {
@@ -102,7 +102,7 @@
             "name": "Manchester City FC",
             "symbol": "CITY",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/CITY.d587c5afdd05"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6401b29F40a02578Ae44241560625232A01B3F79/logo.svg"
         },
         {
             "chainId": 88888,
@@ -110,7 +110,7 @@
             "name": "Professional Fighters League",
             "symbol": "PFL",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/PFL.d8a91c68481d"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xde05490B7AC4B86e54eFf43f4F809C3a7Bb16564/logo.svg"
         },
         {
             "chainId": 88888,
@@ -118,7 +118,7 @@
             "name": "Alliance",
             "symbol": "ALL",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/ALL.dde6ba460c79.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc5C0d1E98D9b1398A37C82Ed81086674baEf2a72/logo.svg"
         },
         {
             "chainId": 88888,
@@ -126,7 +126,7 @@
             "name": "Aston Martin Cognizant",
             "symbol": "AM",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/AM.2f526adad221"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3757951792eDFC2CE196E4C06CFfD04027e87403/logo.svg"
         },
         {
             "chainId": 88888,
@@ -134,7 +134,7 @@
             "name": "FC Barcelona",
             "symbol": "BAR",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/FCB.06c01e371442.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -142,7 +142,7 @@
             "name": "Goztepe S.K.",
             "symbol": "GOZ",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/GOZ.fd6dec059954.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0E469D1C78421C7952E4D9626800DAd22F45361D/logo.svg"
         },
         {
             "chainId": 88888,
@@ -150,7 +150,7 @@
             "name": "Roush Fenway Facing",
             "symbol": "ROUSH",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/ROUSH.e49027d7cae7"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xBA20eF1670393150d1C1b135F45043740ec3a729/logo.svg"
         },
         {
             "chainId": 88888,
@@ -158,7 +158,7 @@
             "name": "Paris Saint-Germain",
             "symbol": "PSG",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/PSG.2cd6521ddd33.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105/logo.svg"
         },
         {
             "chainId": 88888,
@@ -166,7 +166,7 @@
             "name": "Valencia CF",
             "symbol": "VCF",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/VCF.cd6903183f8e"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xba0c26485b1909f80476067272d74A99Cc0E1D57/logo.svg"
         },
         {
             "chainId": 88888,
