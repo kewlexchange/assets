@@ -97,6 +97,15 @@
             "symbol": "BAR",
             "decimals": 0,
             "logoURI": "https://cms-cdn.avascan.com/cms2/FCB.06c01e371442.svg"
-        }
+        },
+        {
+            "chainId": 88882,
+            "address": "0xfD3abAF3F340F93dCe1E491cA11B2FDc7E29dbDC",
+            "name": "Galatasaray S.K.",
+            "symbol": "GAL",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d/logo.svg"
+        },
+        
     ]
 }
