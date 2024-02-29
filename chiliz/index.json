@@ -182,7 +182,7 @@
             "name": "Portugal National Team",
             "symbol": "POR",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/POR.d28802d8908f.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xFFAD7930B474D45933C93b83A2802204b8787129/logo.svg"
         },
         {
             "chainId": 88888,
@@ -190,7 +190,7 @@
             "name": "Alanyaspor",
             "symbol": "ALA",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/ALA.4411d8da6e30.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x863f7537B38130F01a42E9e9406573B1F1e309F7/logo.svg"
         },
         {
             "chainId": 88888,
@@ -198,7 +198,7 @@
             "name": "Vitality",
             "symbol": "VIT",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/VIT.c1ff126a5d71"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1754bbc90F8C004EDBaCC59e41AA4be7a36B5D5b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -246,7 +246,7 @@
             "name": "UFC",
             "symbol": "UFC",
             "decimals": 0,
-            "logoURI": "https://cms-cdn.avascan.com/cms2/UFC.ec1d92d7122f.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0ffa63502f957b66e61F87761cc240e51C74cee5/logo.svg"
         },
         {
             "chainId": 88888,
