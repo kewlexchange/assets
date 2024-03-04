@@ -318,6 +318,17 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/VTRA.svg",
       "address": "0x02b8efdffe96218a1fe5d3a815db3d3ee292498a",
       "decimals": 18
+    },
+    {
+      "chainId": 1907,
+      "name": "TEST TEST TEST TOKEN",
+      "symbol": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg",
+      "address": "0xc2cce3fb6a13fe25f9deb63980a5f005809bf846",
+      "decimals": 18
     }
+
+
+
   ]
 }
