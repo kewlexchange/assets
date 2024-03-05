@@ -678,6 +678,15 @@
             "symbol": "MEM",
             "decimals": 2,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x67289d20400ef06171df3ade7f5b826daf3685d8/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x1257C62822B6A0736245F88E55347e780ca60206",
+            "name": "Football at AlphaVerse",
+            "symbol": "FAV",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0000000000000000000000000000000000000000/logo.svg"
         }
+        
     ]
 }
