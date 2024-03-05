@@ -28,6 +28,12 @@
     },
     {
       "type": "ERC-1155",
+      "address": "0xbC27718aEcD28AE67Be8959B4B42C55325AA645d",
+      "name": "Metamorphic Token Treasures"
+    },
+    
+    {
+      "type": "ERC-1155",
       "address": "0x9D44984Dd6CBAe3F53303081eaA844Dc8af82F9b",
       "name": "NANICO"
     },
