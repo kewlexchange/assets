@@ -38,7 +38,7 @@
       "name": "HOOPOE",
       "symbol": "HOOP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/0x99bd9444c841286291964ece900b4b25e908d716/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x99bd9444c841286291964ece900b4b25e908d716/logo.svg"
     },
     {
       "chainId": 42161,
@@ -46,7 +46,7 @@
       "name": "KEWL Token",
       "symbol": "KEWL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/0xa15907f3e7fdd0a83ec56f4ac543cb10f4d783eb/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xa15907f3e7fdd0a83ec56f4ac543cb10f4d783eb/logo.svg"
     },
     {
       "chainId": 42161,
