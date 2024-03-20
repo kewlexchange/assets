@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.26" height="52.52" viewBox="0 0 194.26 52.52">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.52" height="52.52" viewBox="0 0 52.52 52.52">
   <defs>
     <linearGradient id="linear-gradient" x1="0.965" y1="0.027" x2="0" y2="0.965" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#615fef"/>
@@ -13,19 +13,14 @@
       <stop offset="1" stop-color="#8adbdc"/>
     </linearGradient>
   </defs>
-  <g id="Group_27767" data-name="Group 27767" transform="translate(2734.26 4913)">
-    <g id="Group_27765" data-name="Group 27765" transform="translate(-310 1009.5)">
-      <g id="Group_27757" data-name="Group 27757" transform="translate(-682.26 -1188.5)">
-        <path id="Path_78054" data-name="Path 78054" d="M0,100Z" transform="translate(-1742 -4781.48)" fill="url(#linear-gradient)"/>
-        <g id="Group_27752" data-name="Group 27752" transform="translate(-1742 -4734)">
-          <path id="Path_78053" data-name="Path 78053" d="M26.26,0A26.26,26.26,0,1,1,0,26.26,26.26,26.26,0,0,1,26.26,0Z" transform="translate(0)" fill="url(#linear-gradient-2)"/>
-          <ellipse id="Ellipse_167" data-name="Ellipse 167" cx="18" cy="17.5" rx="18" ry="17.5" transform="translate(8.26 8.26)" fill="#f5f5f5"/>
-          <rect id="Rectangle_3347" data-name="Rectangle 3347" width="26" height="22" rx="11" transform="translate(13.26 14.26)" fill="url(#linear-gradient-3)"/>
-          <rect id="Rectangle_3348" data-name="Rectangle 3348" width="3" height="5" rx="1.5" transform="translate(21.26 22.26)" fill="#fff"/>
-          <rect id="Rectangle_3349" data-name="Rectangle 3349" width="3" height="5" rx="1.5" transform="translate(29.26 22.26)" fill="#fff"/>
-        </g>
-      </g>
-      <text id="CASEGPT" transform="translate(-2356 -5883.5)" fill="#fff" font-size="29" letter-spacing="0.04em" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CASEGPT</tspan></text>
+  <g id="Group_27766" data-name="Group 27766" transform="translate(1742 4734)">
+    <path id="Path_78054" data-name="Path 78054" d="M0,100Z" transform="translate(-1742 -4781.48)" fill="url(#linear-gradient)"/>
+    <g id="Group_27752" data-name="Group 27752" transform="translate(-1742 -4734)">
+      <path id="Path_78053" data-name="Path 78053" d="M26.26,0A26.26,26.26,0,1,1,0,26.26,26.26,26.26,0,0,1,26.26,0Z" transform="translate(0)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_167" data-name="Ellipse 167" cx="18" cy="17.5" rx="18" ry="17.5" transform="translate(8.26 8.26)" fill="#f5f5f5"/>
+      <rect id="Rectangle_3347" data-name="Rectangle 3347" width="26" height="22" rx="11" transform="translate(13.26 14.26)" fill="url(#linear-gradient-3)"/>
+      <rect id="Rectangle_3348" data-name="Rectangle 3348" width="3" height="5" rx="1.5" transform="translate(21.26 22.26)" fill="#fff"/>
+      <rect id="Rectangle_3349" data-name="Rectangle 3349" width="3" height="5" rx="1.5" transform="translate(29.26 22.26)" fill="#fff"/>
     </g>
   </g>
 </svg>
