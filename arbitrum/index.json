@@ -35,7 +35,7 @@
     
     {
       "chainId": 42161,
-      "address": "0x99bd9444c841286291964ece900b4b25e908d716",
+      "address": "0xd4A1da83dc89aA13B8fa15d3Bf4EB1D52B6A949e",
       "name": "CASEGPT",
       "symbol": "GPTC",
       "decimals": 18,
