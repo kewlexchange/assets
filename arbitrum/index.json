@@ -30,7 +30,16 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.svg"
+    },
+    
+    {
+      "chainId": 42161,
+      "address": "0x99bd9444c841286291964ece900b4b25e908d716",
+      "name": "CASEGPT",
+      "symbol": "GPTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xd4a1da83dc89aa13b8fa15d3bf4eb1d52b6a949e/logo.svg"
     },
     {
       "chainId": 42161,
