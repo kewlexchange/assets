@@ -1,6 +1,6 @@
 {
   "name": "Any Swap Default",
-  "timestamp": "2022-10-20T17:29:34.056Z",
+  "timestamp": "2024-03-20T17:29:34.056Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -39,7 +39,7 @@
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x912ce59144191c1204e64559fe8253a0e49e6548/logo.svg"
     },
     {
       "chainId": 42161,
