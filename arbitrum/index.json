@@ -35,6 +35,14 @@
     
     {
       "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.svg"
+    },
+    {
+      "chainId": 42161,
       "address": "0xd4A1da83dc89aA13B8fa15d3Bf4EB1D52B6A949e",
       "name": "CASEGPT",
       "symbol": "GPTC",
