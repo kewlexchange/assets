@@ -33,6 +33,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001",
+            "name": "ChilizInu",
+            "symbol": "ChzInu",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
             "name": "Galatasaray S.K.",
             "symbol": "GAL",
@@ -662,14 +670,6 @@
             "symbol": "JDT",
             "decimals": 0,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001",
-            "name": "ChilizInu",
-            "symbol": "ChzInu",
-            "decimals": 4,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
         },
         {
             "chainId": 88888,
