@@ -1,10 +1,10 @@
 {
   "name": "Any Swap Default",
-  "timestamp": "2024-03-20T17:29:34.056Z",
+  "timestamp": "2024-03-24T17:29:34.056Z",
   "version": {
-    "major": 0,
-    "minor": 0,
-    "patch": 0
+    "major": 1,
+    "minor": 2,
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg",
@@ -56,6 +56,14 @@
       "symbol": "HOOP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x99bd9444c841286291964ece900b4b25e908d716/logo.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b/logo.svg"
     },
     {
       "chainId": 42161,
