@@ -51,22 +51,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x68d73FE616c3faaC1FC0feC6899a84e69b2CfA4F",
-      "name": "KADI_OLD",
-      "symbol": "KADI_OLD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x68d73fe616c3faac1fc0fec6899a84e69b2cfa4f/logo.svg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xd4A1da83dc89aA13B8fa15d3Bf4EB1D52B6A949e",
-      "name": "CASEGPT",
-      "symbol": "GPTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xd4a1da83dc89aa13b8fa15d3bf4eb1d52b6a949e/logo.svg"
-    },
-    {
-      "chainId": 42161,
       "address": "0x99bd9444c841286291964ece900b4b25e908d716",
       "name": "HOOPOE",
       "symbol": "HOOP",
