@@ -43,9 +43,17 @@
     },
     {
       "chainId": 42161,
-      "address": "0x68d73FE616c3faaC1FC0feC6899a84e69b2CfA4F",
+      "address": "0x0CC0C9071FaB3bd0050b994857E8Be4F2daC8c38",
       "name": "KADI",
       "symbol": "KADI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x0CC0C9071FaB3bd0050b994857E8Be4F2daC8c38/logo.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x68d73FE616c3faaC1FC0feC6899a84e69b2CfA4F",
+      "name": "KADI_OLD",
+      "symbol": "KADI_OLD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x68d73fe616c3faac1fc0fec6899a84e69b2cfa4f/logo.svg"
     },
