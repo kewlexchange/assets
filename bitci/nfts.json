@@ -1,0 +1,56 @@
+{
+  "name": "Intelligent Monsters NFTs",
+  "timestamp": "2022-10-20T17:29:34.056Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg",
+  "keywords": [
+    "bitci",
+    "tokens",
+    "defi",
+    "refi",
+    "nft"
+  ],
+  "nfts": [
+    {
+      "type": "ERC-721",
+      "address": "0xe7CfdE2d4E5E75Af9fdE567c70431F35EcBbc47F",
+      "name": "IMON NAME SERVERS"
+    },
+    {
+      "type": "ERC-1155",
+      "address": "0xcAf8d4dD875995548c4f634eF5036fe005CD0b6b",
+      "name": "INTELLIGENT MONSTERS"
+    },
+    {
+      "type": "ERC-1155",
+      "address": "0xbC27718aEcD28AE67Be8959B4B42C55325AA645d",
+      "name": "Metamorphic Token Treasures"
+    },
+    
+    {
+      "type": "ERC-1155",
+      "address": "0x9D44984Dd6CBAe3F53303081eaA844Dc8af82F9b",
+      "name": "NANICO"
+    },
+    {
+      "type": "ERC-1155",
+      "address": "0xA4f6C84C6db2F2bD70a1cF5637c070E9Be9ea791",
+      "name": "IMON"
+    },
+    {
+      "type": "ERC-721",
+      "address": "0xff693fb6829B40f1Aad4759c08d86D20fD5e4893",
+      "name": "BITCI BOTS"
+    },
+    {
+      "type": "ERC-721",
+      "address": "0xe436983b149964a9fe22a0c058560137418cf785",
+      "name": "Galaxiaverse Alpha Pass"
+    }
+  ]
+}
