@@ -20,6 +20,14 @@
     "tokens": [
         {
             "chainId": 88882,
+            "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+            "name": "KEWL EXCHANGE",
+            "symbol": "KWL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
+        },
+        {
+            "chainId": 88882,
             "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
             "name": "Intelligent Monsters",
             "symbol": "IMON",
