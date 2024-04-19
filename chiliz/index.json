@@ -710,6 +710,14 @@
             "symbol": "FAV",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1257c62822b6a0736245f88e55347e780ca60206/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x706d419628391e130440bc3dc1c27d9291362dac",
+            "name": "Yellow Pepper",
+            "symbol": "YPEP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x706d419628391e130440bc3dc1c27d9291362dac/logo.svg"
         }
     ]
 }
