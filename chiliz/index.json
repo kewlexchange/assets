@@ -57,6 +57,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x8dD0b17222766169d8cDbe469477d717AFceE32E",
+            "name": "Pepper With Hat",
+            "symbol": "PWIT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x8dd0b17222766169d8cdbe469477d717afcee32e/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x2B0155ae744a5949004497527208b99Ae1833d1B",
             "name": "Joe Grech Fan Token",
             "symbol": "JOE",
