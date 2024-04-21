@@ -1,6 +1,6 @@
 {
     "name": "Any Swap Default",
-    "timestamp": "2023-12-11T13:06:34.056Z",
+    "timestamp": "2023-12-22T13:06:34.056Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -70,6 +70,14 @@
             "symbol": "JAMAL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x93b72b70ed785670c7742d8e284af07306538ebb/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0xa16E553c5C7368aD23b758F30A20cDFBB2F0e88e",
+            "name": "Chiliz PEPE",
+            "symbol": "CHZPEPE",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xa16e553c5c7368ad23b758f30a20cdfbb2f0e88e/logo.svg"
         },
         {
             "chainId": 88888,
