@@ -97,6 +97,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x91919FB80C4309ACBc8A538c976D52501D4c7dA6",
+            "name": "Chill EURO 2024",
+            "symbol": "EURO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x91919fb80c4309acbc8a538c976d52501d4c7da6/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x2B0155ae744a5949004497527208b99Ae1833d1B",
             "name": "Joe Grech Fan Token",
             "symbol": "JOE",
