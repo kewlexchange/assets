@@ -81,6 +81,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0xB2bf4f0943430717A53Bab1025E092DBC3D557fb",
+            "name": "Germain le Lynx mascot PSG",
+            "symbol": "GERMAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xb2bf4f0943430717a53bab1025e092dbc3d557fb/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x932b99D32d4a3364bcE3ce7F8dc9Aa49534Ec9E3",
             "name": "Chiliz PEPE",
             "symbol": "CHZPEPE",
