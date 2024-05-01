@@ -49,11 +49,19 @@
         },
         {
             "chainId": 88888,
-            "address": "0x9FAAE77622C49a01fc5817548D4b8f5C2763D9A5",
-            "name": "Chiliz Squad",
-            "symbol": "CHSQUAD",
+            "address": "0x3720526d4d4C93B9dB7C293587ec02782dC729d9",
+            "name": "Angry HOOP",
+            "symbol": "ANGRY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x9faae77622c49a01fc5817548d4b8f5c2763d9a5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x60cfC65BA14C2f8B111Fc7B152bB11486FDEa822",
+            "name": "FanFanToken",
+            "symbol": "FANFAN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x60cfc65ba14c2f8b111fc7b152bb11486fdea822/logo.svg"
         },
         {
             "chainId": 88888,
@@ -62,14 +70,6 @@
             "symbol": "CATCHI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0x3720526d4d4C93B9dB7C293587ec02782dC729d9",
-            "name": "Angry HOOP",
-            "symbol": "ANGRY",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
         },
         {
             "chainId": 88888,
@@ -110,6 +110,14 @@
             "symbol": "CHZPEPE",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x932b99d32d4a3364bce3ce7f8dc9aa49534ec9e3/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x9FAAE77622C49a01fc5817548D4b8f5C2763D9A5",
+            "name": "Chiliz Squad",
+            "symbol": "CHSQUAD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x9faae77622c49a01fc5817548d4b8f5c2763d9a5/logo.svg"
         },
         {
             "chainId": 88888,
