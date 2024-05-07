@@ -57,11 +57,19 @@
         },
         {
             "chainId": 88888,
-            "address": "0x13D9E110e0c13016CAF9982CcB79A70aC39C1374",
-            "name": "CHILIZSHIB",
-            "symbol": "CHILIZSHIBA",
+            "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
+            "name": "Footy Fan",
+            "symbol": "FAFO",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC",
+            "name": "Cat Chiliz",
+            "symbol": "CATCHI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x13d9e110e0c13016caf9982ccb79a70ac39c1374/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
         },
         {
             "chainId": 88888,
@@ -73,11 +81,19 @@
         },
         {
             "chainId": 88888,
-            "address": "0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC",
-            "name": "Cat Chiliz",
-            "symbol": "CATCHI",
+            "address": "0xE8DFFD460A77e6e643aB12d727305F13810EB4cf",
+            "name": "ChilizKing",
+            "symbol": "KING",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe8dffd460a77e6e643ab12d727305f13810eb4cf/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x13D9E110e0c13016CAF9982CcB79A70aC39C1374",
+            "name": "CHILIZSHIB",
+            "symbol": "CHILIZSHIBA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x13d9e110e0c13016caf9982ccb79a70ac39c1374/logo.svg"
         },
         {
             "chainId": 88888,
@@ -166,14 +182,6 @@
             "symbol": "EURO",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x91919fb80c4309acbc8a538c976d52501d4c7da6/logo.svg"
-        },
-        {
-            "chainId": 88888,
-            "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
-            "name": "Footy Fan",
-            "symbol": "FAFO",
-            "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
         },
         {
             "chainId": 88888,
