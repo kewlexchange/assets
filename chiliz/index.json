@@ -89,14 +89,6 @@
         },
         {
             "chainId": 88888,
-            "address": "0x13D9E110e0c13016CAF9982CcB79A70aC39C1374",
-            "name": "CHILIZSHIB",
-            "symbol": "CHILIZSHIBA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x13d9e110e0c13016caf9982ccb79a70ac39c1374/logo.svg"
-        },
-        {
-            "chainId": 88888,
             "address": "0x49598257e62484F46A918862fA88fe116B64f05e",
             "name": "MILO",
             "symbol": "MILO",
