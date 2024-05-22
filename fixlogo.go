@@ -37,7 +37,8 @@ type Tags struct{}
 
 func main() {
 	// Dosyadan JSON verisini oku
-	filePath := "/Users/ersanyakit/Documents/GitHub/nfts/chiliz/index.json"
+
+	filePath := "/Users/ersanyakit/Documents/GitHub/nfts/arbitrum/index.json"
 	jsonData, err := ioutil.ReadFile(filePath)
 	if err != nil {
 		fmt.Println("Dosya okuma hatası:", err)
@@ -58,7 +59,7 @@ func main() {
 	for i := range swapDefault.Tokens {
 
 		var ContractAddress = strings.ToLower(swapDefault.Tokens[i].Address)
-		var NewLogoURL = fmt.Sprintf("https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/%s/logo.svg", ContractAddress)
+		var NewLogoURL = fmt.Sprintf("https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/%s/logo.svg", ContractAddress)
 		swapDefault.Tokens[i].LogoURI = NewLogoURL
 	}
 

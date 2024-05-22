@@ -22,7 +22,7 @@
             "name": "KEWL EXCHANGE",
             "symbol": "KWL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
         },
         {
             "chainId": 42161,
@@ -30,7 +30,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.svg"
         },
         {
             "chainId": 42161,
@@ -38,7 +38,7 @@
             "name": "Arbitrum",
             "symbol": "ARB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x912ce59144191c1204e64559fe8253a0e49e6548/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x912ce59144191c1204e64559fe8253a0e49e6548/logo.svg"
         },
         {
             "chainId": 42161,
@@ -46,7 +46,7 @@
             "name": "Suck",
             "symbol": "SUCK",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
         },
         {
             "chainId": 42161,
@@ -54,7 +54,7 @@
             "name": "KADI",
             "symbol": "KADI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x0cc0c9071fab3bd0050b994857e8be4f2dac8c38/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x0cc0c9071fab3bd0050b994857e8be4f2dac8c38/logo.svg"
         },
         {
             "chainId": 42161,
@@ -62,7 +62,7 @@
             "name": "HOOPOE",
             "symbol": "HOOP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x99bd9444c841286291964ece900b4b25e908d716/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x99bd9444c841286291964ece900b4b25e908d716/logo.svg"
         },
         {
             "chainId": 42161,
@@ -70,7 +70,7 @@
             "name": "WOO",
             "symbol": "WOO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b/logo.svg"
         },
         {
             "chainId": 42161,
@@ -78,7 +78,7 @@
             "name": "KEWL Token",
             "symbol": "KEWL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xa15907f3e7fdd0a83ec56f4ac543cb10f4d783eb/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xa15907f3e7fdd0a83ec56f4ac543cb10f4d783eb/logo.svg"
         },
         {
             "chainId": 42161,
@@ -86,7 +86,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/logo.svg"
         },
         {
             "chainId": 42161,
@@ -94,7 +94,7 @@
             "name": "Intelligent Monsters",
             "symbol": "IMON",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x9631be8566fc71d91970b10acfdee29f21da6c27/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x9631be8566fc71d91970b10acfdee29f21da6c27/logo.svg"
         },
         {
             "chainId": 42161,
@@ -102,7 +102,7 @@
             "name": "USDCoin",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xaf88d065e77c8cc2239327c5edb3a432268e5831/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xaf88d065e77c8cc2239327c5edb3a432268e5831/logo.svg"
         },
         {
             "chainId": 42161,
@@ -110,7 +110,7 @@
             "name": "KADI OLD",
             "symbol": "KADI OLD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0x68d73fe616c3faac1fc0fec6899a84e69b2cfa4f/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x68d73fe616c3faac1fc0fec6899a84e69b2cfa4f/logo.svg"
         },
         {
             "chainId": 42161,
@@ -118,7 +118,7 @@
             "name": "CASEGPT OLD",
             "symbol": "GPTC OLD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/arbitrum/tokens/0xd4a1da83dc89aa13b8fa15d3bf4eb1d52b6a949e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xd4a1da83dc89aa13b8fa15d3bf4eb1d52b6a949e/logo.svg"
         }
     ]
 }

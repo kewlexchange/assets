@@ -21,7 +21,7 @@
             "name": "KEWL EXCHANGE",
             "symbol": "KWL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
         },
         {
             "chainId": 88888,
@@ -29,7 +29,7 @@
             "name": "Wrapped Chiliz",
             "symbol": "WCHZ",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x721ef6871f1c4efe730dce047d40d1743b886946/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x721ef6871f1c4efe730dce047d40d1743b886946/logo.svg"
         },
         {
             "chainId": 88888,
@@ -37,7 +37,7 @@
             "name": "ChilizInu",
             "symbol": "ChzInu",
             "decimals": 4,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
         },
         {
             "chainId": 88888,
@@ -45,7 +45,7 @@
             "name": "TBT",
             "symbol": "TBT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xfed7a6423cdebb4c05552dc888de5acc657444f4/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfed7a6423cdebb4c05552dc888de5acc657444f4/logo.svg"
         },
         {
             "chainId": 88888,
@@ -53,7 +53,7 @@
             "name": "Angry HOOP",
             "symbol": "ANGRY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
         },
         {
             "chainId": 88888,
@@ -61,7 +61,7 @@
             "name": "Footy Fan",
             "symbol": "FAFO",
             "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
         },
         {
             "chainId": 88888,
@@ -69,7 +69,7 @@
             "name": "Cat Chiliz",
             "symbol": "CATCHI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
         },
         {
             "chainId": 88888,
@@ -77,7 +77,7 @@
             "name": "FanFanToken",
             "symbol": "FANFAN",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x60cfc65ba14c2f8b111fc7b152bb11486fdea822/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x60cfc65ba14c2f8b111fc7b152bb11486fdea822/logo.svg"
         },
         {
             "chainId": 88888,
@@ -85,7 +85,7 @@
             "name": "ChilizKing",
             "symbol": "KING",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe8dffd460a77e6e643ab12d727305f13810eb4cf/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe8dffd460a77e6e643ab12d727305f13810eb4cf/logo.svg"
         },
         {
             "chainId": 88888,
@@ -93,7 +93,7 @@
             "name": "MILO",
             "symbol": "MILO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x49598257e62484f46a918862fa88fe116b64f05e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x49598257e62484f46a918862fa88fe116b64f05e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -101,7 +101,7 @@
             "name": "Teddy Bear Chiliz",
             "symbol": "ALBERT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x703093c8200662421ad71e3d3ec4ebcdaab90266/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x703093c8200662421ad71e3d3ec4ebcdaab90266/logo.svg"
         },
         {
             "chainId": 88888,
@@ -109,7 +109,7 @@
             "name": "Pepper With Hat",
             "symbol": "PWIT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x8dd0b17222766169d8cdbe469477d717afcee32e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8dd0b17222766169d8cdbe469477d717afcee32e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -117,7 +117,7 @@
             "name": "Sir Jamal",
             "symbol": "JAMAL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x93b72b70ed785670c7742d8e284af07306538ebb/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93b72b70ed785670c7742d8e284af07306538ebb/logo.svg"
         },
         {
             "chainId": 88888,
@@ -125,7 +125,7 @@
             "name": "Germain le Lynx mascot PSG",
             "symbol": "GERMAIN",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xb2bf4f0943430717a53bab1025e092dbc3d557fb/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xb2bf4f0943430717a53bab1025e092dbc3d557fb/logo.svg"
         },
         {
             "chainId": 88888,
@@ -133,7 +133,7 @@
             "name": "Chiliz PEPE",
             "symbol": "CHZPEPE",
             "decimals": 4,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x932b99d32d4a3364bce3ce7f8dc9aa49534ec9e3/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x932b99d32d4a3364bce3ce7f8dc9aa49534ec9e3/logo.svg"
         },
         {
             "chainId": 88888,
@@ -141,7 +141,7 @@
             "name": "Suck",
             "symbol": "SUCK",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -149,7 +149,7 @@
             "name": "MUNCHIZ",
             "symbol": "MC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce/logo.svg"
         },
         {
             "chainId": 88888,
@@ -157,7 +157,7 @@
             "name": "$AlexTheLlama",
             "symbol": "$AlexTheLlama",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xbd0a7fed244116f8d3e3db25b06536abaacab7e5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xbd0a7fed244116f8d3e3db25b06536abaacab7e5/logo.svg"
         },
         {
             "chainId": 88888,
@@ -165,7 +165,7 @@
             "name": "Chiliz Squad",
             "symbol": "CHSQUAD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x9faae77622c49a01fc5817548d4b8f5c2763d9a5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x9faae77622c49a01fc5817548d4b8f5c2763d9a5/logo.svg"
         },
         {
             "chainId": 88888,
@@ -173,7 +173,7 @@
             "name": "Chill Chadz",
             "symbol": "CHADZ",
             "decimals": 4,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe236a985e61486a5e7ddb80c9b45ac0502a050ad/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe236a985e61486a5e7ddb80c9b45ac0502a050ad/logo.svg"
         },
         {
             "chainId": 88888,
@@ -181,7 +181,7 @@
             "name": "Chill EURO 2024",
             "symbol": "EURO",
             "decimals": 4,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x91919fb80c4309acbc8a538c976d52501d4c7da6/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x91919fb80c4309acbc8a538c976d52501d4c7da6/logo.svg"
         },
         {
             "chainId": 88888,
@@ -189,7 +189,7 @@
             "name": "Dogwifhat Chiliz",
             "symbol": "Wif",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x77b7e52808598a2994f1f0c4a0cd01f8930fe2ce/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x77b7e52808598a2994f1f0c4a0cd01f8930fe2ce/logo.svg"
         },
         {
             "chainId": 88888,
@@ -197,7 +197,7 @@
             "name": "BUNNY",
             "symbol": "BUNNY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe6fe90ce6357532fe0ce72325d572abbc261ea25/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe6fe90ce6357532fe0ce72325d572abbc261ea25/logo.svg"
         },
         {
             "chainId": 88888,
@@ -205,7 +205,7 @@
             "name": "Joe Grech Fan Token",
             "symbol": "JOE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x2b0155ae744a5949004497527208b99ae1833d1b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x2b0155ae744a5949004497527208b99ae1833d1b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -213,7 +213,7 @@
             "name": "Intelligent Monsters",
             "symbol": "IMON",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x9631be8566fc71d91970b10acfdee29f21da6c27/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x9631be8566fc71d91970b10acfdee29f21da6c27/logo.svg"
         },
         {
             "chainId": 88888,
@@ -221,7 +221,7 @@
             "name": "Galatasaray S.K.",
             "symbol": "GAL",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d/logo.svg"
         },
         {
             "chainId": 88888,
@@ -229,7 +229,7 @@
             "name": "Flamengo",
             "symbol": "MENGO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xd1723eb9e7c6ee7c7e2d421b2758dc0f2166eddc/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xd1723eb9e7c6ee7c7e2d421b2758dc0f2166eddc/logo.svg"
         },
         {
             "chainId": 88888,
@@ -237,7 +237,7 @@
             "name": "Arsenal FC",
             "symbol": "AFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1d4343d35f0e0e14c14115876d01deaa4792550b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1d4343d35f0e0e14c14115876d01deaa4792550b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -245,7 +245,7 @@
             "name": "AC Milan",
             "symbol": "ACM",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688/logo.svg"
         },
         {
             "chainId": 88888,
@@ -253,7 +253,7 @@
             "name": "Corinthians",
             "symbol": "SCCP",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x20bfeab58f8be903753d037ba7e307fc77c97388/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x20bfeab58f8be903753d037ba7e307fc77c97388/logo.svg"
         },
         {
             "chainId": 88888,
@@ -261,7 +261,7 @@
             "name": "Inter Milan",
             "symbol": "INTER",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc727c9c0f2647cb90b0fca64d8ddb14878716bed/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xc727c9c0f2647cb90b0fca64d8ddb14878716bed/logo.svg"
         },
         {
             "chainId": 88888,
@@ -269,7 +269,7 @@
             "name": "Juventus",
             "symbol": "JUV",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x454038003a93cf44766af352f74bad6b745616d0/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x454038003a93cf44766af352f74bad6b745616d0/logo.svg"
         },
         {
             "chainId": 88888,
@@ -277,7 +277,7 @@
             "name": "Argentina",
             "symbol": "ARG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xd34625c1c812439229ef53e06f22053249d011f5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xd34625c1c812439229ef53e06f22053249d011f5/logo.svg"
         },
         {
             "chainId": 88888,
@@ -285,7 +285,7 @@
             "name": "Manchester City FC",
             "symbol": "CITY",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6401b29f40a02578ae44241560625232a01b3f79/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6401b29f40a02578ae44241560625232a01b3f79/logo.svg"
         },
         {
             "chainId": 88888,
@@ -293,7 +293,7 @@
             "name": "Professional Fighters League",
             "symbol": "PFL",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xde05490b7ac4b86e54eff43f4f809c3a7bb16564/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xde05490b7ac4b86e54eff43f4f809c3a7bb16564/logo.svg"
         },
         {
             "chainId": 88888,
@@ -301,7 +301,7 @@
             "name": "Alliance",
             "symbol": "ALL",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc5c0d1e98d9b1398a37c82ed81086674baef2a72/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xc5c0d1e98d9b1398a37c82ed81086674baef2a72/logo.svg"
         },
         {
             "chainId": 88888,
@@ -309,7 +309,7 @@
             "name": "Aston Martin Cognizant",
             "symbol": "AM",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3757951792edfc2ce196e4c06cffd04027e87403/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3757951792edfc2ce196e4c06cffd04027e87403/logo.svg"
         },
         {
             "chainId": 88888,
@@ -317,7 +317,7 @@
             "name": "FC Barcelona",
             "symbol": "BAR",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -325,7 +325,7 @@
             "name": "Goztepe S.K.",
             "symbol": "GOZ",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0e469d1c78421c7952e4d9626800dad22f45361d/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0e469d1c78421c7952e4d9626800dad22f45361d/logo.svg"
         },
         {
             "chainId": 88888,
@@ -333,7 +333,7 @@
             "name": "Roush Fenway Facing",
             "symbol": "ROUSH",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xba20ef1670393150d1c1b135f45043740ec3a729/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xba20ef1670393150d1c1b135f45043740ec3a729/logo.svg"
         },
         {
             "chainId": 88888,
@@ -341,7 +341,7 @@
             "name": "Paris Saint-Germain",
             "symbol": "PSG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105/logo.svg"
         },
         {
             "chainId": 88888,
@@ -349,7 +349,7 @@
             "name": "Valencia CF",
             "symbol": "VCF",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xba0c26485b1909f80476067272d74a99cc0e1d57/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xba0c26485b1909f80476067272d74a99cc0e1d57/logo.svg"
         },
         {
             "chainId": 88888,
@@ -357,7 +357,7 @@
             "name": "Alfa Romeo Racing ORLEN",
             "symbol": "SAUBER",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xcf6d626203011e5554c82babe17dd7cdc4ee86bf/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xcf6d626203011e5554c82babe17dd7cdc4ee86bf/logo.svg"
         },
         {
             "chainId": 88888,
@@ -365,7 +365,7 @@
             "name": "Portugal National Team",
             "symbol": "POR",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xffad7930b474d45933c93b83a2802204b8787129/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xffad7930b474d45933c93b83a2802204b8787129/logo.svg"
         },
         {
             "chainId": 88888,
@@ -373,7 +373,7 @@
             "name": "Alanyaspor",
             "symbol": "ALA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x863f7537b38130f01a42e9e9406573b1f1e309f7/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x863f7537b38130f01a42e9e9406573b1f1e309f7/logo.svg"
         },
         {
             "chainId": 88888,
@@ -381,7 +381,7 @@
             "name": "Vitality",
             "symbol": "VIT",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1754bbc90f8c004edbacc59e41aa4be7a36b5d5b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1754bbc90f8c004edbacc59e41aa4be7a36b5d5b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -389,7 +389,7 @@
             "name": "AS Monaco",
             "symbol": "ASM",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x371863096cf5685cd37ae00c28de10b6edbab3fe/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x371863096cf5685cd37ae00c28de10b6edbab3fe/logo.svg"
         },
         {
             "chainId": 88888,
@@ -397,7 +397,7 @@
             "name": "Clube Atlético Mineiro",
             "symbol": "GALO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe5274eb169e0e3a60b9dc343f02ba940958e8683/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe5274eb169e0e3a60b9dc343f02ba940958e8683/logo.svg"
         },
         {
             "chainId": 88888,
@@ -405,7 +405,7 @@
             "name": "BSC Young Boys",
             "symbol": "YBO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0dc1776c56ffd3a046134be6fdc23a3214359329/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0dc1776c56ffd3a046134be6fdc23a3214359329/logo.svg"
         },
         {
             "chainId": 88888,
@@ -413,7 +413,7 @@
             "name": "AS Roma",
             "symbol": "ASR",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xa6610b3361c4c0d206aa3364cd985016c2d89386/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa6610b3361c4c0d206aa3364cd985016c2d89386/logo.svg"
         },
         {
             "chainId": 88888,
@@ -421,7 +421,7 @@
             "name": "Trabzonspor",
             "symbol": "TRA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x304193f18f3b34647ae1f549fc825a7e50267c51/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x304193f18f3b34647ae1f549fc825a7e50267c51/logo.svg"
         },
         {
             "chainId": 88888,
@@ -429,7 +429,7 @@
             "name": "UFC",
             "symbol": "UFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0ffa63502f957b66e61f87761cc240e51c74cee5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0ffa63502f957b66e61f87761cc240e51c74cee5/logo.svg"
         },
         {
             "chainId": 88888,
@@ -437,7 +437,7 @@
             "name": "İstanbul Başakşehir FK",
             "symbol": "IBFK",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xd5febd04badd83e7ed56ca093fd57655b737cd3e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xd5febd04badd83e7ed56ca093fd57655b737cd3e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -445,7 +445,7 @@
             "name": "Leeds United FC",
             "symbol": "LUFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf67a8a4299f7ebf0c58dbfb38941d0867f300c30/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf67a8a4299f7ebf0c58dbfb38941d0867f300c30/logo.svg"
         },
         {
             "chainId": 88888,
@@ -453,7 +453,7 @@
             "name": "Natus Vincere",
             "symbol": "NAVI",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x05765a792a04ecc6d45102b45874bc44a95a2d7e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x05765a792a04ecc6d45102b45874bc44a95a2d7e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -461,7 +461,7 @@
             "name": "São Paulo FC",
             "symbol": "SPFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x540165b9dfdde31658f9ba0ca5504eda448bffd0/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x540165b9dfdde31658f9ba0ca5504eda448bffd0/logo.svg"
         },
         {
             "chainId": 88888,
@@ -469,7 +469,7 @@
             "name": "Bologna FC",
             "symbol": "BFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x319067e6253fdbf183c27abcaf31d45ad50e98ff/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x319067e6253fdbf183c27abcaf31d45ad50e98ff/logo.svg"
         },
         {
             "chainId": 88888,
@@ -477,7 +477,7 @@
             "name": "Aston Villa",
             "symbol": "AVL",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x095726841dc9bf395114ac83f8fd42b176cfad10/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x095726841dc9bf395114ac83f8fd42b176cfad10/logo.svg"
         },
         {
             "chainId": 88888,
@@ -485,7 +485,7 @@
             "name": "Dinamo Zagreb",
             "symbol": "DZG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6412afdfdf2a465b2e2464a5f9d1743a9cffd6ff/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6412afdfdf2a465b2e2464a5f9d1743a9cffd6ff/logo.svg"
         },
         {
             "chainId": 88888,
@@ -493,7 +493,7 @@
             "name": "Atlético de Madrid",
             "symbol": "ATM",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe9506f70be469d2369803ccf41823713bafe8154/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe9506f70be469d2369803ccf41823713bafe8154/logo.svg"
         },
         {
             "chainId": 88888,
@@ -501,7 +501,7 @@
             "name": "Club Atletico Independiente",
             "symbol": "CAI",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x8a48ad8279318757ea7905b460816c4b92de447e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8a48ad8279318757ea7905b460816c4b92de447e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -509,7 +509,7 @@
             "name": "SL Benfica",
             "symbol": "BENFICA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xad7c869f357b57bb03050183d1ba8ec465cd69dc/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xad7c869f357b57bb03050183d1ba8ec465cd69dc/logo.svg"
         },
         {
             "chainId": 88888,
@@ -517,7 +517,7 @@
             "name": "Everton Football Club",
             "symbol": "EFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xabee61f8ff0eadd8d4ee87092792aaf2d9b2ca8e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xabee61f8ff0eadd8d4ee87092792aaf2d9b2ca8e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -525,7 +525,7 @@
             "name": "Levante",
             "symbol": "LEV",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x69d65e72266b15c2b2abcd69561399d9bd1843ef/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x69d65e72266b15c2b2abcd69561399d9bd1843ef/logo.svg"
         },
         {
             "chainId": 88888,
@@ -533,7 +533,7 @@
             "name": "Samsunspor",
             "symbol": "SAM",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xfc21c38f4802ab29aed8cc7367542a0955cfa9d7/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfc21c38f4802ab29aed8cc7367542a0955cfa9d7/logo.svg"
         },
         {
             "chainId": 88888,
@@ -541,7 +541,7 @@
             "name": "Legia Warsaw",
             "symbol": "LEG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3ce3946a68eb044c59afe77dfdfdc71f19eb4328/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3ce3946a68eb044c59afe77dfdfdc71f19eb4328/logo.svg"
         },
         {
             "chainId": 88888,
@@ -549,7 +549,7 @@
             "name": "Millonarios",
             "symbol": "MFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xdeb5a271a67652a84decb6278d70a6d6a18d7c3b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xdeb5a271a67652a84decb6278d70a6d6a18d7c3b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -557,7 +557,7 @@
             "name": "Endpoint CeX",
             "symbol": "ENDCEX",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3f521d391e2ad0093d3bfabb2516f1c57d73b4d1/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3f521d391e2ad0093d3bfabb2516f1c57d73b4d1/logo.svg"
         },
         {
             "chainId": 88888,
@@ -565,7 +565,7 @@
             "name": "Fortuna Sittard",
             "symbol": "FOR",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x4b56f121f769bbdee3faba6e8b9163e7cffdd59a/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x4b56f121f769bbdee3faba6e8b9163e7cffdd59a/logo.svg"
         },
         {
             "chainId": 88888,
@@ -573,7 +573,7 @@
             "name": "Gaziantep FK",
             "symbol": "GFK",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x2a5dbf10a9eb8d948aef256fde8e62f811624c4f/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x2a5dbf10a9eb8d948aef256fde8e62f811624c4f/logo.svg"
         },
         {
             "chainId": 88888,
@@ -581,7 +581,7 @@
             "name": "FIGC",
             "symbol": "ITA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x7483263ca24bfcff716a21f4a9bbf2610bdd9ec9/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x7483263ca24bfcff716a21f4a9bbf2610bdd9ec9/logo.svg"
         },
         {
             "chainId": 88888,
@@ -589,7 +589,7 @@
             "name": "Napoli",
             "symbol": "NAP",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xbe7f1ebb1fd6246844e093b04991ae0e66d12c77/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xbe7f1ebb1fd6246844e093b04991ae0e66d12c77/logo.svg"
         },
         {
             "chainId": 88888,
@@ -597,7 +597,7 @@
             "name": "Universidad de Chile",
             "symbol": "UCH",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xa082ec45af038100d4989636a4a5e52fd7e5c636/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa082ec45af038100d4989636a4a5e52fd7e5c636/logo.svg"
         },
         {
             "chainId": 88888,
@@ -605,7 +605,7 @@
             "name": "Racing",
             "symbol": "RACING",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x06ed14a885d0710118fc20d51efdc151a48005b3/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x06ed14a885d0710118fc20d51efdc151a48005b3/logo.svg"
         },
         {
             "chainId": 88888,
@@ -613,7 +613,7 @@
             "name": "Team Heretics",
             "symbol": "TH",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x06b4213774dd069cf603ad11770b52f1e98160a7/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x06b4213774dd069cf603ad11770b52f1e98160a7/logo.svg"
         },
         {
             "chainId": 88888,
@@ -621,7 +621,7 @@
             "name": "Crystal Palace",
             "symbol": "CPFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xa70bd29bef2936765fe33b0f4b0cf8e947d75581/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa70bd29bef2936765fe33b0f4b0cf8e947d75581/logo.svg"
         },
         {
             "chainId": 88888,
@@ -629,7 +629,7 @@
             "name": "Davis Cup",
             "symbol": "DAVIS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf50b3db1d498b69b0dc8ccc0b03643009a6bda78/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf50b3db1d498b69b0dc8ccc0b03643009a6bda78/logo.svg"
         },
         {
             "chainId": 88888,
@@ -637,7 +637,7 @@
             "name": "Sevilla FC",
             "symbol": "SEVILLA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x60a5e1f5f0071c5d870bb0a80b411bde908ad51e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x60a5e1f5f0071c5d870bb0a80b411bde908ad51e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -645,7 +645,7 @@
             "name": "Internacional",
             "symbol": "SACI",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x3175e779b42d35e2c9eeafadcf5b6e6ec6e4f910/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3175e779b42d35e2c9eeafadcf5b6e6ec6e4f910/logo.svg"
         },
         {
             "chainId": 88888,
@@ -653,7 +653,7 @@
             "name": "Palmeiras",
             "symbol": "VERDAO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x971364ec452958d4d65ba8d508faa226d7117279/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x971364ec452958d4d65ba8d508faa226d7117279/logo.svg"
         },
         {
             "chainId": 88888,
@@ -661,7 +661,7 @@
             "name": "Apollon Limassol FC",
             "symbol": "APL",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xb407a167fe99eb97970e41b2608d0d9484c489c8/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xb407a167fe99eb97970e41b2608d0d9484c489c8/logo.svg"
         },
         {
             "chainId": 88888,
@@ -669,7 +669,7 @@
             "name": "MIBR",
             "symbol": "MIBR",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xa8206af1e6a0289156d45b9d60e5bbd5d1fcf68d/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa8206af1e6a0289156d45b9d60e5bbd5d1fcf68d/logo.svg"
         },
         {
             "chainId": 88888,
@@ -677,7 +677,7 @@
             "name": "EC Bahia",
             "symbol": "BAHIA",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe92e152fc0ff1368739670a5175175154ceeef42/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe92e152fc0ff1368739670a5175175154ceeef42/logo.svg"
         },
         {
             "chainId": 88888,
@@ -685,7 +685,7 @@
             "name": "Real Sociedad",
             "symbol": "RSO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xdd03a533d6a309afff3053fe9fc6c197324597bb/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xdd03a533d6a309afff3053fe9fc6c197324597bb/logo.svg"
         },
         {
             "chainId": 88888,
@@ -693,7 +693,7 @@
             "name": "OG",
             "symbol": "OG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x19ca0f4adb29e2130a56b9c9422150b5dc07f294/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x19ca0f4adb29e2130a56b9c9422150b5dc07f294/logo.svg"
         },
         {
             "chainId": 88888,
@@ -701,7 +701,7 @@
             "name": "Harlequins",
             "symbol": "QUINS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x539e00d2487a06f3f08cdaf7bf7a8b4a32c3a14e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x539e00d2487a06f3f08cdaf7bf7a8b4a32c3a14e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -709,7 +709,7 @@
             "name": "Vasco da Gama",
             "symbol": "VASCO",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x6d72034d7508d16988bf84638d51592a8c02887b/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6d72034d7508d16988bf84638d51592a8c02887b/logo.svg"
         },
         {
             "chainId": 88888,
@@ -717,7 +717,7 @@
             "name": "Saracens",
             "symbol": "SARRIES",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x753dda10c7b3069f0c90837dc3755c7c40a81b8c/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x753dda10c7b3069f0c90837dc3755c7c40a81b8c/logo.svg"
         },
         {
             "chainId": 88888,
@@ -725,7 +725,7 @@
             "name": "Fluminense FC",
             "symbol": "FLU",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x86930777d43605c40ba786f7802778ff5413efab/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x86930777d43605c40ba786f7802778ff5413efab/logo.svg"
         },
         {
             "chainId": 88888,
@@ -733,7 +733,7 @@
             "name": "Tigers",
             "symbol": "TIGERS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b39ff3de07e8b6d2b97357d6f2a658ed7de52cf/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0b39ff3de07e8b6d2b97357d6f2a658ed7de52cf/logo.svg"
         },
         {
             "chainId": 88888,
@@ -741,7 +741,7 @@
             "name": "Atlas FC",
             "symbol": "ATLAS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x936ae5911f49634fd7f4f7385db1613c5e350ede/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x936ae5911f49634fd7f4f7385db1613c5e350ede/logo.svg"
         },
         {
             "chainId": 88888,
@@ -749,7 +749,7 @@
             "name": "Stade Français",
             "symbol": "SFP",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x2a89f8af25b01b837d67be3b1a162a663f77b26e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x2a89f8af25b01b837d67be3b1a162a663f77b26e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -757,7 +757,7 @@
             "name": "Udinese",
             "symbol": "UDI",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xd2571bb5e84f1a3ac643b6be1dd94fc9fb97041d/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xd2571bb5e84f1a3ac643b6be1dd94fc9fb97041d/logo.svg"
         },
         {
             "chainId": 88888,
@@ -765,7 +765,7 @@
             "name": "Sint-Truidense Voetbalvereniging",
             "symbol": "STV",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe446d966ba9a36e518cf450abbd22f45688107da/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe446d966ba9a36e518cf450abbd22f45688107da/logo.svg"
         },
         {
             "chainId": 88888,
@@ -773,7 +773,7 @@
             "name": "BALI UNITED",
             "symbol": "BUFC",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe87cb1546d50f523057d3f94b07381dce3f85ef9/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe87cb1546d50f523057d3f94b07381dce3f85ef9/logo.svg"
         },
         {
             "chainId": 88888,
@@ -781,7 +781,7 @@
             "name": "Club Santos Laguna",
             "symbol": "SAN",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x44941a2d2049be0acb00baf0a5dee8931c33712e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x44941a2d2049be0acb00baf0a5dee8931c33712e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -789,7 +789,7 @@
             "name": "Hashtag United F.C.",
             "symbol": "HASHTAG",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x7be4aebc9900d2c1b628530ffc59416a98420b15/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x7be4aebc9900d2c1b628530ffc59416a98420b15/logo.svg"
         },
         {
             "chainId": 88888,
@@ -797,7 +797,7 @@
             "name": "PERSIB",
             "symbol": "PERSIB",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xc34bfba5db50152ef3312348a814d24f85748d64/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xc34bfba5db50152ef3312348a814d24f85748d64/logo.svg"
         },
         {
             "chainId": 88888,
@@ -805,7 +805,7 @@
             "name": "Sharks",
             "symbol": "SHARKS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1f5ed1182b673338ecff0eeab13ed79ceaf775f5/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1f5ed1182b673338ecff0eeab13ed79ceaf775f5/logo.svg"
         },
         {
             "chainId": 88888,
@@ -813,7 +813,7 @@
             "name": "Tigres",
             "symbol": "TIGRES",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf17b1e028537aba705433f7cebdca881b5c5b79e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf17b1e028537aba705433f7cebdca881b5c5b79e/logo.svg"
         },
         {
             "chainId": 88888,
@@ -821,7 +821,7 @@
             "name": "Tottenham Hotspur",
             "symbol": "SPURS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92/logo.svg"
         },
         {
             "chainId": 88888,
@@ -829,7 +829,7 @@
             "name": "Novara Calcio",
             "symbol": "NOV",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xe6bd000d6608e1e5d1476a96e7cb63c335c595a9/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe6bd000d6608e1e5d1476a96e7cb63c335c595a9/logo.svg"
         },
         {
             "chainId": 88888,
@@ -837,7 +837,7 @@
             "name": "Chivas",
             "symbol": "$CHVS",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xf66288961a3495ea9140fbd7c69e70a59db08b16/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf66288961a3495ea9140fbd7c69e70a59db08b16/logo.svg"
         },
         {
             "chainId": 88888,
@@ -845,7 +845,7 @@
             "name": "Johor Darul Tazim F.C",
             "symbol": "JDT",
             "decimals": 0,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
         },
         {
             "chainId": 88888,
@@ -853,7 +853,7 @@
             "name": "MEM ERC20 Token",
             "symbol": "MEM",
             "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x67289d20400ef06171df3ade7f5b826daf3685d8/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x67289d20400ef06171df3ade7f5b826daf3685d8/logo.svg"
         },
         {
             "chainId": 88888,
@@ -861,7 +861,7 @@
             "name": "Football at AlphaVerse",
             "symbol": "FAV",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x1257c62822b6a0736245f88e55347e780ca60206/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1257c62822b6a0736245f88e55347e780ca60206/logo.svg"
         }
     ]
 }
