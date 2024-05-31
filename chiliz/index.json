@@ -201,6 +201,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x5380Ec26851c8109BBb1bfcB78Aa138724c6Ec4c",
+            "name": "CHZWIF Chiliz with shoes",
+            "symbol": "CHZWIF",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x5380ec26851c8109bbb1bfcb78aa138724c6ec4c/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x2B0155ae744a5949004497527208b99Ae1833d1B",
             "name": "Joe Grech Fan Token",
             "symbol": "JOE",
