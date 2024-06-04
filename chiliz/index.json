@@ -145,6 +145,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x80C4e9DD17F0856691C6b00aC83A80E527D8Ac58",
+            "name": "MarloVerse",
+            "symbol": "MRL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x80c4e9dd17f0856691c6b00ac83a80e527d8ac58/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x81fb6D4b45E0897e2151ad60BE1Ed33d973223CE",
             "name": "MUNCHIZ",
             "symbol": "MC",
