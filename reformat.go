@@ -29,7 +29,7 @@ func convertToLower(path string, info os.FileInfo, err error) error {
 
 func main() {
 	// Klasörünüzün yolunu belirtin
-	rootFolder := "/Users/ersanyakit/Documents/GitHub/nfts"
+	rootFolder := "./"
 
 	// Walk fonksiyonunu kullanarak tüm alt klasörleri dolaşın
 	err := filepath.Walk(rootFolder, convertToLower)

@@ -38,7 +38,7 @@ type Tags struct{}
 func main() {
 	// Dosyadan JSON verisini oku
 
-	filePath := "/Users/ersanyakit/Documents/GitHub/nfts/chiliz/index.json"
+	filePath := "./chiliz/index.json"
 	jsonData, err := ioutil.ReadFile(filePath)
 	if err != nil {
 		fmt.Println("Dosya okuma hatası:", err)
