@@ -53,6 +53,14 @@
         },
         {
             "chainId": 88882,
+            "address": "0x7F73C50748560BD2B286a4c7bF6a805cFb6f735d",
+            "name": "FC Barcelona",
+            "symbol": "BAR",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b/logo.svg"
+        },
+        {
+            "chainId": 88882,
             "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
             "name": "Intelligent Monsters",
             "symbol": "IMON",
