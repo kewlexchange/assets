@@ -26,6 +26,31 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
         },
+
+        {
+            "chainId": 88882,
+            "address": "0x945EeD98f5CBada87346028aD0BeE0eA66849A0e",
+            "name": "Juventus",
+            "symbol": "JUV",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x454038003a93cf44766af352f74bad6b745616d0/logo.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0x641d040dB51398Ba3a4f2d7839532264EcdCc3aE",
+            "name": "AC Milan",
+            "symbol": "ACM",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688/logo.svg"
+        },
+        {
+            "chainId": 88882,
+            "address": "0x9B9C9AAa74678FcF4E1c76eEB1fa969A8E7254f8",
+            "name": "Tottenham Hotspur",
+            "symbol": "SPURS",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92/logo.svg"
+        },
         {
             "chainId": 88882,
             "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
