@@ -41,6 +41,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0xEfDd09582498184d14aF330e1B02d0c8d63aFED5",
+            "name": "PUMLx",
+            "symbol": "PUMLx",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xefdd09582498184d14af330e1b02d0c8d63afed5/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x721EF6871f1c4Efe730Dce047D40D1743B886946",
             "name": "KEWL Wrapped Chiliz",
             "symbol": "KCHZ",
