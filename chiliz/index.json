@@ -129,6 +129,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x68364d82A628b2AaF691d5a6605030f6Dff4436E",
+            "name": "Suck",
+            "symbol": "SUCK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x60cfC65BA14C2f8B111Fc7B152bB11486FDEa822",
             "name": "FanFanToken",
             "symbol": "FANFAN",
@@ -137,11 +145,11 @@
         },
         {
             "chainId": 88888,
-            "address": "0x68364d82A628b2AaF691d5a6605030f6Dff4436E",
-            "name": "Suck",
-            "symbol": "SUCK",
+            "address": "0xE8DFFD460A77e6e643aB12d727305F13810EB4cf",
+            "name": "ChilizKing",
+            "symbol": "KING",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe8dffd460a77e6e643ab12d727305f13810eb4cf/logo.svg"
         },
         {
             "chainId": 88888,
