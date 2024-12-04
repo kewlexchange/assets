@@ -127,7 +127,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce/logo.svg"
         },
-       
         {
             "chainId": 88888,
             "address": "0x68364d82A628b2AaF691d5a6605030f6Dff4436E",
@@ -150,7 +149,7 @@
             "name": "CHILIZ TURTLE",
             "symbol": "CHZTRTLE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1291f5a7B6204155255C868378c246b0E65110F6/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1291f5a7b6204155255c868378c246b0e65110f6/logo.svg"
         },
         {
             "chainId": 88888,
