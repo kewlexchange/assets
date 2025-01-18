@@ -31,6 +31,22 @@
             "symbol": "SFID",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890abd6dc51936db1d85aa93d7ada9fb72/logo.svg"
-        }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png"
+          },
+          {
+            "chainId": 43114,
+            "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+            "decimals": 18,
+            "name": "ROCO",
+            "symbol": "ROCO",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_48.png"
+          }
     ]
 }
