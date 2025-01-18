@@ -48,5 +48,14 @@
             "symbol": "ROCO",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_48.png"
           }
+          ,
+          {
+            "chainId": 43114,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "decimals": 18,
+            "name": "COQ Inu",
+            "symbol": "COQ",
+            "logoURI": "https://coin-images.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
+          }
     ]
 }
