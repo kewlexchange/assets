@@ -25,6 +25,95 @@
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/logo.svg"
         },
         {
+            "chainId": 43113,
+            "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+            "decimals": 8,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xAb231A5744C8E6c45481754928cCfFFFD4aa0732",
+            "decimals": 6,
+            "name": "USD Tether",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xAb231A5744C8E6c45481754928cCfFFFD4aa0732/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "decimals": 18,
+            "name": "JOE token",
+            "symbol": "JOE",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+            "decimals": 18,
+            "name": "Avalaunch",
+            "symbol": "XAVA",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "decimals": 6,
+            "name": "Tether Token - Bridged",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e",
+
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "decimals": 6,
+            "name": "Tether Token",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xf7fb95890aBd6Dc51936dB1d85AA93D7Ada9fb72",
             "name": "SnowFlake",
@@ -39,23 +128,22 @@
             "name": "Pangolin",
             "symbol": "PNG",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png"
-          },
-          {
+        },
+        {
             "chainId": 43114,
             "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
             "decimals": 18,
             "name": "ROCO",
             "symbol": "ROCO",
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_48.png"
-          }
-          ,
-          {
+        },
+        {
             "chainId": 43114,
             "address": "0x420FcA0121DC28039145009570975747295f2329",
             "decimals": 18,
             "name": "COQ Inu",
             "symbol": "COQ",
             "logoURI": "https://coin-images.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
-          }
+        }
     ]
 }
