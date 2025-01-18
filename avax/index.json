@@ -1,6 +1,6 @@
 {
     "name": "Any Swap Default",
-    "timestamp": "2024-04-07T17:29:34.056Z",
+    "timestamp": "2025-01-07T17:29:34.056Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -94,7 +94,6 @@
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH.e",
-
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
         },
         {
