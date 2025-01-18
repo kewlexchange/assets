@@ -16,14 +16,7 @@
         "imondex"
     ],
     "tokens": [
-        {
-            "chainId": 42161,
-            "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
-            "name": "KEWL EXCHANGE",
-            "symbol": "KWL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
-        },
+   
         {
             "chainId": 42161,
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
@@ -31,6 +24,14 @@
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.svg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+            "name": "KEWL EXCHANGE",
+            "symbol": "KWL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/arbitrum/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
         },
         {
             "chainId": 42161,
