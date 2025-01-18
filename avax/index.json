@@ -1,0 +1,37 @@
+{
+    "name": "Any Swap Default",
+    "timestamp": "2024-04-07T17:29:34.056Z",
+    "version": {
+        "major": 1,
+        "minor": 2,
+        "patch": 3
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "avax",
+        "tokens",
+        "defi",
+        "refi",
+        "kewl"
+    ],
+    "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.svg"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf7fb95890aBd6Dc51936dB1d85AA93D7Ada9fb72",
+            "name": "SnowFlake",
+            "symbol": "SFID",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890aBd6Dc51936dB1d85AA93D7Ada9fb72/logo.svg"
+        }
+    
+    ]
+}
