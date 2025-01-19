@@ -62,7 +62,7 @@
             "name": "SnowFlake",
             "symbol": "SFID",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890abd6dc51936db1d85aa93d7ada9fb72/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890aBd6Dc51936dB1d85AA93D7Ada9fb72/logo.svg"
         },
         {
             "chainId": 43114,
