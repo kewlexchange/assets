@@ -24,16 +24,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/logo.svg"
         },
-  
-        {
-            "chainId": 43114,
-            "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
-            "decimals": 8,
-            "name": "Wrapped Bitcoin",
-            "symbol": "WBTC",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png"
-        },
-
         {
             "chainId": 43114,
             "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
