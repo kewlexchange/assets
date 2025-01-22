@@ -24,6 +24,11 @@
         },
         {
             "type": "ERC-1155",
+            "address": "0x3aC8aC8EC9B43CFFa7fABcF1dF6ea9F9E816C60c",
+            "name": "MAGGOO"
+        },
+        {
+            "type": "ERC-1155",
             "address": "0x3456e402A1445E276E69a0043D47DC6480E0A432",
             "name": "INTELLIGENT MONSTERS"
         },
