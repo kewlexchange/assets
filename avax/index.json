@@ -27,34 +27,34 @@
         {
             "chainId": 43114,
             "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-            "decimals": 18,
             "name": "JOE token",
             "symbol": "JOE",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
-            "decimals": 18,
             "name": "Avalaunch",
             "symbol": "XAVA",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-            "decimals": 6,
             "name": "Tether Token",
             "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/logo.svg"
         },
         {
             "chainId": 43114,
@@ -62,31 +62,31 @@
             "name": "SnowFlake",
             "symbol": "SFID",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890aBd6Dc51936dB1d85AA93D7Ada9fb72/logo.svg"
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xf7fb95890abd6dc51936db1d85aa93d7ada9fb72/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
-            "decimals": 18,
             "name": "Pangolin",
             "symbol": "PNG",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0x60781c2586d68229fde47564546784ab3faca982/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
-            "decimals": 18,
             "name": "ROCO",
             "symbol": "ROCO",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_48.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xb2a85c5ecea99187a977ac34303b80acbddfa208/logo.svg"
         },
         {
             "chainId": 43114,
             "address": "0x420FcA0121DC28039145009570975747295f2329",
-            "decimals": 18,
             "name": "COQ Inu",
             "symbol": "COQ",
-            "logoURI": "https://coin-images.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0x420fca0121dc28039145009570975747295f2329/logo.svg"
         }
     ]
 }
