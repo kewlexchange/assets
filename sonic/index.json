@@ -182,6 +182,16 @@
             "symbol": "SACRA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2/logo.svg"
+        },
+        {
+            "chainId": 146,
+            "address": "0x3bEd0daF59a0A6FC8D2aEfff015600641C4eD952",
+            "name": "Sonic Market Gem",
+            "symbol": "SGEM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x3bEd0daF59a0A6FC8D2aEfff015600641C4eD952/logo.svg"
         }
+
+        
     ]
 }
