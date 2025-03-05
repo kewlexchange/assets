@@ -37,7 +37,8 @@ type Tags struct{}
 
 func main() {
 	// Dosyadan JSON verisini oku
-	filePath := "./chiliz/index.json"
+	network := "sonic"
+	filePath := fmt.Sprintf("./%s/index.json", network)
 	jsonData, err := ioutil.ReadFile(filePath)
 	if err != nil {
 		fmt.Println("Dosya okuma hatası:", err)
@@ -58,7 +59,7 @@ func main() {
 	for i := range swapDefault.Tokens {
 
 		var ContractAddress = strings.ToLower(swapDefault.Tokens[i].Address)
-		var NewLogoURL = fmt.Sprintf("https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/%s/logo.svg", ContractAddress)
+		var NewLogoURL = fmt.Sprintf("https://raw.githubusercontent.com/kewlexchange/assets/main/%s/tokens/%s/logo.svg", network, ContractAddress)
 		swapDefault.Tokens[i].LogoURI = NewLogoURL
 	}
 
