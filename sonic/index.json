@@ -129,6 +129,14 @@
         },
         {
             "chainId": 146,
+            "address": "0xF97d438BC03aD0F75B83ce5714c9619880B305bc",
+            "name": "FIERY",
+            "symbol": "FIERY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xf97d438bc03ad0f75b83ce5714c9619880b305bc/logo.svg"
+        },
+        {
+            "chainId": 146,
             "address": "0xe920d1da9a4d59126dc35996ea242d60efca1304",
             "name": "Derp Token",
             "symbol": "DERP",
