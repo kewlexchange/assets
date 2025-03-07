@@ -65,6 +65,14 @@
         },
         {
             "chainId": 146,
+            "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
+            "name": "Sonic BTC",
+            "symbol": "scBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd/logo.svg"
+        },
+        {
+            "chainId": 146,
             "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
             "name": "Sonic ETH",
             "symbol": "scETH",
