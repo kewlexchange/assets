@@ -537,14 +537,6 @@
         },
         {
             "chainId": 146,
-            "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
-            "name": "Equalizer",
-            "symbol": "EQUAL",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xddf26b42c1d903de8962d3f79a74a501420d5f19/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
             "name": "To The Tits!",
             "symbol": "TTT",
