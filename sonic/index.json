@@ -209,22 +209,6 @@
         },
         {
             "chainId": 146,
-            "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-            "name": "Bridged USDC (Sonic Labs)",
-            "symbol": "USDC.e",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x29219dd400f2bf60e5a23d13be72b486d4038894/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
-            "name": "Wrapped Sonic",
-            "symbol": "WS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
             "name": "Bridged USDC (Sonic Labs)",
             "symbol": "USDC.e",
@@ -241,27 +225,11 @@
         },
         {
             "chainId": 146,
-            "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
-            "name": "Goggles",
-            "symbol": "GOGLZ",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
             "name": "Bridged EURC (Sonic Labs)",
             "symbol": "EURC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe715cba7b5ccb33790cebff1436809d36cb17e57/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
-            "name": "Beets Staked Sonic",
-            "symbol": "stS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe5da20f15420ad15de0fa650600afc998bbe3955/logo.svg"
         },
         {
             "chainId": 146,
@@ -369,22 +337,6 @@
         },
         {
             "chainId": 146,
-            "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
-            "name": "Sonic USD (Rings Protocol)",
-            "symbol": "scUSD",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
-            "name": "Sonic ETH (Rings Protocol)",
-            "symbol": "scETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x3bce5cb273f0f148010bbea2470e7b5df84c7812/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
             "name": "Atoll ETH",
             "symbol": "atETH",
@@ -414,30 +366,6 @@
             "symbol": "SonicX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x495d3a3a954185b876a63b023f13b7f4b0ce35d2/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
-            "name": "PaintSwap",
-            "symbol": "BRUSH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-            "name": "HeyAnon",
-            "symbol": "ANON",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
-            "name": "Beets",
-            "symbol": "BEETS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x2d0e0814e62d80056181f5cd932274405966e4f0/logo.svg"
         },
         {
             "chainId": 146,
@@ -481,14 +409,6 @@
         },
         {
             "chainId": 146,
-            "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
-            "name": "Sacra Token",
-            "symbol": "Sacra",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
             "name": "Sacra Gem",
             "symbol": "SacraGEM",
@@ -527,7 +447,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbf5899166ac476370b3117c9256b7fc45624f4ea/logo.svg"
         },
-
         {
             "chainId": 146,
             "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
