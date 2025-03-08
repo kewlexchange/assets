@@ -585,14 +585,6 @@
         },
         {
             "chainId": 146,
-            "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
-            "name": "Sonic BTC (Rings Protocol)",
-            "symbol": "scBTC",
-            "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
             "name": "Ruggie's Pizza",
             "symbol": "RUGGIE",
