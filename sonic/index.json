@@ -216,444 +216,444 @@
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x29219dd400f2bf60e5a23d13be72b486d4038894/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
             "name": "Wrapped Sonic",
             "symbol": "WS",
             "decimals": 18,
-            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
-            "logoURI": "https://images.metropolis.exchange/WS.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
             "name": "Bridged USDC (Sonic Labs)",
             "symbol": "USDC.e",
             "decimals": 6,
-            "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
-            "logoURI": "https://images.metropolis.exchange/USDC.e.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x29219dd400f2bf60e5a23d13be72b486d4038894/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
             "name": "Wrapped Ether on Sonic",
             "symbol": "WETH",
             "decimals": 18,
-            "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
-            "logoURI": "https://images.metropolis.exchange/wETH.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x50c42deacd8fc9773493ed674b675be577f2634b/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
             "name": "Goggles",
             "symbol": "GOGLZ",
             "decimals": 18,
-            "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
-            "logoURI": "https://images.metropolis.exchange/GOGLZ.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
             "name": "Bridged EURC (Sonic Labs)",
             "symbol": "EURC.e",
             "decimals": 6,
-            "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
-            "logoURI": "https://images.metropolis.exchange/EURC.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe715cba7b5ccb33790cebff1436809d36cb17e57/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
             "name": "Beets Staked Sonic",
             "symbol": "stS",
             "decimals": 18,
-            "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
-            "logoURI": "https://images.metropolis.exchange/stS.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe5da20f15420ad15de0fa650600afc998bbe3955/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
             "name": "Indi",
             "symbol": "INDI",
             "decimals": 18,
-            "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
-            "logoURI": "https://images.metropolis.exchange/INDI.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
             "name": "Tin Hat Cat",
             "symbol": "THC",
             "decimals": 18,
-            "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
-            "logoURI": "https://images.metropolis.exchange/THC.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x17af1df44444ab9091622e4aa66db5bb34e51ad5/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
             "name": "DiddyScrotumFree",
             "symbol": "MOIST",
             "decimals": 18,
-            "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
-            "logoURI": "https://images.metropolis.exchange/MOIST.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x690d956d97d3eee18ab68ed1a28a89d531734f3d/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
             "name": "Toona",
             "symbol": "toona",
             "decimals": 18,
-            "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
-            "logoURI": "https://images.metropolis.exchange/TOONA.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xf4f9c50455c698834bb645089dbaa89093b93838/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
             "name": "Hedgy The Hedgehog",
             "symbol": "HEDGY",
             "decimals": 18,
-            "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
-            "logoURI": "https://images.metropolis.exchange/HEDGY.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x6fb9897896fe5d05025eb43306675727887d0b7c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
             "name": "Pass The Joint",
             "symbol": "JOINT",
             "decimals": 18,
-            "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
-            "logoURI": "https://images.metropolis.exchange/JOINT.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
             "name": "Familio",
             "symbol": "F",
             "decimals": 18,
-            "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
-            "logoURI": "https://images.metropolis.exchange/F.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
             "name": "Sonic Kings",
             "symbol": "K",
             "decimals": 18,
-            "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
-            "logoURI": "https://images.metropolis.exchange/K.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7732cda61c9f7852c8a016b815f07ccd067a918f/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x873e509A21b106937472834201d653Ba62951c7E",
             "name": "Shrimp Token",
             "symbol": "SHRIMP",
             "decimals": 18,
-            "address": "0x873e509A21b106937472834201d653Ba62951c7E",
-            "logoURI": "https://images.metropolis.exchange/SHRIMP.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x873e509a21b106937472834201d653ba62951c7e/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
             "name": "sDOG",
             "symbol": "sDOG",
             "decimals": 18,
-            "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
-            "logoURI": "https://images.metropolis.exchange/sDOG.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
             "name": "SonicEco",
             "symbol": "ECO",
             "decimals": 18,
-            "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
-            "logoURI": "https://images.metropolis.exchange/ECO.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xc1aC6D480966CED520Eff0e9B081B8Ec30548790",
             "name": "Sanic",
             "symbol": "SANIC",
             "decimals": 18,
-            "address": "0xc1aC6D480966CED520Eff0e9B081B8Ec30548790",
-            "logoURI": "https://images.metropolis.exchange/SANIC.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xc1ac6d480966ced520eff0e9b081b8ec30548790/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
             "name": "Thank You Sonic God",
             "symbol": "TYSG",
             "decimals": 18,
-            "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
-            "logoURI": "https://images.metropolis.exchange/TYSG.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x56192e94434c4fd3278b4fa53039293fb00de3db/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
             "name": "Sonic USD (Rings Protocol)",
             "symbol": "scUSD",
             "decimals": 6,
-            "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
-            "logoURI": "https://images.metropolis.exchange/scUSD.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
             "name": "Sonic ETH (Rings Protocol)",
             "symbol": "scETH",
             "decimals": 18,
-            "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
-            "logoURI": "https://images.metropolis.exchange/scETH.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x3bce5cb273f0f148010bbea2470e7b5df84c7812/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
             "name": "Atoll ETH",
             "symbol": "atETH",
             "decimals": 18,
-            "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
-            "logoURI": "https://images.metropolis.exchange/atETH.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x284d81e48fbc782aa9186a03a226690aea5cbe0e/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
             "name": "Surv Token",
             "symbol": "SURV",
             "decimals": 18,
-            "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
-            "logoURI": "https://images.metropolis.exchange/SURV.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xb161fe49deb1bda8e3a4a484d5ccd927a35a7dde/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
             "name": "Metropolis Gem",
             "symbol": "MGEM",
             "decimals": 18,
-            "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
-            "logoURI": "https://images.metropolis.exchange/MGEM.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x8a3b1cd8d0decf649262e56ece6b339e59f350db/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
             "name": "Sonic X",
             "symbol": "SonicX",
             "decimals": 18,
-            "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
-            "logoURI": "https://images.metropolis.exchange/SONICX.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x495d3a3a954185b876a63b023f13b7f4b0ce35d2/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
             "name": "PaintSwap",
             "symbol": "BRUSH",
             "decimals": 18,
-            "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
-            "logoURI": "https://images.metropolis.exchange/BRUSH.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
             "name": "HeyAnon",
             "symbol": "ANON",
             "decimals": 18,
-            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-            "logoURI": "https://images.metropolis.exchange/ANON.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
             "name": "Beets",
             "symbol": "BEETS",
             "decimals": 18,
-            "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
-            "logoURI": "https://images.metropolis.exchange/BEETS.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x2d0e0814e62d80056181f5cd932274405966e4f0/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
             "name": "Ludwig",
             "symbol": "LUDWIG",
             "decimals": 18,
-            "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
-            "logoURI": "https://images.metropolis.exchange/LUDWIG.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xE96159Ca91a183e727a95568134Ca71566386a40",
             "name": "Lazy Bear River",
             "symbol": "LBR",
             "decimals": 18,
-            "address": "0xE96159Ca91a183e727a95568134Ca71566386a40",
-            "logoURI": "https://images.metropolis.exchange/LBR.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xe96159ca91a183e727a95568134ca71566386a40/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
             "name": "Moon Bay",
             "symbol": "MOON",
             "decimals": 18,
-            "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
-            "logoURI": "https://images.metropolis.exchange/MOON.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
             "name": "Solv BTC",
             "symbol": "SolvBTC",
             "decimals": 18,
-            "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
-            "logoURI": "https://images.metropolis.exchange/SolvBTC.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x541fd749419ca806a8bc7da8ac23d346f2df8b77/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
             "name": "Solv BTC Babylon",
             "symbol": "SolvBTC.BBN",
             "decimals": 18,
-            "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-            "logoURI": "https://images.metropolis.exchange/SolvBTC.BBN.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xcc0966d8418d412c599a6421b760a847eb169a8c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
             "name": "Sacra Token",
             "symbol": "Sacra",
             "decimals": 18,
-            "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
-            "logoURI": "https://images.metropolis.exchange/Sacra.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
             "name": "Sacra Gem",
             "symbol": "SacraGEM",
             "decimals": 18,
-            "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
-            "logoURI": "https://images.metropolis.exchange/SacraGEM.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xfc0dd337b92baa949bc5d25fd9a99cb3b6873204/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x387C3a994c715f19050E0E133C97E923B8BA172c",
             "name": "Sonic Kitty",
             "symbol": "SKITTY",
             "decimals": 18,
-            "address": "0x387C3a994c715f19050E0E133C97E923B8BA172c",
-            "logoURI": "https://images.metropolis.exchange/SKITTY.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x387c3a994c715f19050e0e133c97e923b8ba172c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xc48c34fcB7328c443e735F3E7Ac393c703b192aD",
             "name": "Beanie Zombie",
             "symbol": "BZ",
             "decimals": 18,
-            "address": "0xc48c34fcB7328c443e735F3E7Ac393c703b192aD",
-            "logoURI": "https://images.metropolis.exchange/BZ.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xc48c34fcb7328c443e735f3e7ac393c703b192ad/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x9c1380658fE2fDa22A574B269b71E7e066562821",
             "name": "Blur",
             "symbol": "BLUR",
             "decimals": 18,
-            "address": "0x9c1380658fE2fDa22A574B269b71E7e066562821",
-            "logoURI": "https://images.metropolis.exchange/BLUR.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x9c1380658fe2fda22a574b269b71e7e066562821/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
             "name": "Gravity Finance",
             "symbol": "GFI",
             "decimals": 18,
-            "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
-            "logoURI": "https://images.metropolis.exchange/GFI.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbf5899166ac476370b3117c9256b7fc45624f4ea/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
             "name": "Metropolis",
             "symbol": "METRO",
             "decimals": 18,
-            "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
-            "logoURI": "https://images.metropolis.exchange/METRO.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x71e99522ead5e21cf57f1f542dc4ad2e841f7321/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
             "name": "Equalizer",
             "symbol": "EQUAL",
             "decimals": 18,
-            "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
-            "logoURI": "https://images.metropolis.exchange/EQUAL.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xddf26b42c1d903de8962d3f79a74a501420d5f19/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
             "name": "To The Tits!",
             "symbol": "TTT",
             "decimals": 18,
-            "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
-            "logoURI": "https://images.metropolis.exchange/TTT.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xb5ffb8b1a6832de1ba6b0c484da8541d87987439/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
             "name": "Origin Sonic",
             "symbol": "OS",
             "decimals": 18,
-            "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
-            "logoURI": "https://images.metropolis.exchange/TTT.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xb1e25689d55734fd3fffc939c4c3eb52dff8a794/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
             "name": "Bridged USDT (Sonic Labs)",
             "symbol": "USDT",
             "decimals": 6,
-            "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
-            "logoURI": "https://images.metropolis.exchange/USDT.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x6047828dc181963ba44974801ff68e538da5eaf9/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xd94aAb9465C8b203B2c8437ad5AFB879b0c7AFb8",
             "name": "Anonymous Andre",
             "symbol": "AA",
             "decimals": 18,
-            "address": "0xd94aAb9465C8b203B2c8437ad5AFB879b0c7AFb8",
-            "logoURI": "https://images.metropolis.exchange/AA.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xd94aab9465c8b203b2c8437ad5afb879b0c7afb8/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
             "name": "Uppies",
             "symbol": "UPPIES",
             "decimals": 18,
-            "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
-            "logoURI": "https://images.metropolis.exchange/UPPIES.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x9bcea390ff97e0d3362bf726820776a4df8add9a/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
             "name": "Sonic BTC (Rings Protocol)",
             "symbol": "scBTC",
             "decimals": 8,
-            "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
-            "logoURI": "https://images.metropolis.exchange/scBTC.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
             "name": "Ruggie's Pizza",
             "symbol": "RUGGIE",
             "decimals": 18,
-            "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
-            "logoURI": "https://images.metropolis.exchange/RUGGIE.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
             "name": "Aurum",
             "symbol": "AUR",
             "decimals": 18,
-            "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
-            "logoURI": "https://images.metropolis.exchange/AUR.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x7f144f8691cba3d2efd8e5bcf042f9303ee31a46/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
             "name": "Froq",
             "symbol": "FROQ",
             "decimals": 18,
-            "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
-            "logoURI": "https://images.metropolis.exchange/FROQ.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x131f5ae1cbfefe8efbdf93da23fa4d39f14a817c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x03941cB90CE45A56Ee38fDb73d3e457Dd056ed9c",
             "name": "Jerboa",
             "symbol": "JERBOA",
             "decimals": 18,
-            "address": "0x03941cB90CE45A56Ee38fDb73d3e457Dd056ed9c",
-            "logoURI": "https://images.metropolis.exchange/JERBOA.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x03941cb90ce45a56ee38fdb73d3e457dd056ed9c/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0xf2fC4c21F1B69fd4B633b4be532DEDEd6ab68715",
             "name": "YE On Chain",
             "symbol": "YE",
             "decimals": 18,
-            "address": "0xf2fC4c21F1B69fd4B633b4be532DEDEd6ab68715",
-            "logoURI": "https://images.metropolis.exchange/YE.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xf2fc4c21f1b69fd4b633b4be532deded6ab68715/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
             "name": "Navi",
             "symbol": "NAVI",
             "decimals": 18,
-            "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
-            "logoURI": "https://images.metropolis.exchange/NAVI.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x6881b80ea7c858e4aeef63893e18a8a36f3682f3/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
             "name": "HedgePot",
             "symbol": "HPOT",
             "decimals": 18,
-            "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
-            "logoURI": "https://images.metropolis.exchange/HPOT.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x98118a5b3ced2390607c1e1be46406f0356b069d/logo.svg"
         },
         {
+            "chainId": 146,
+            "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
             "name": "Stability",
             "symbol": "STBL",
             "decimals": 18,
-            "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
-            "logoURI": "https://images.metropolis.exchange/STBL.svg",
-            "chainId": 146
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7/logo.svg"
         }
     ]
 }
