@@ -529,14 +529,6 @@
         },
         {
             "chainId": 146,
-            "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
-            "name": "Navi",
-            "symbol": "NAVI",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x6881b80ea7c858e4aeef63893e18a8a36f3682f3/logo.svg"
-        },
-        {
-            "chainId": 146,
             "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
             "name": "HedgePot",
             "symbol": "HPOT",
