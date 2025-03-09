@@ -24,7 +24,7 @@
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38/logo.svg"
         },
         {
-            "chainId": 88888,
+            "chainId": 146,
             "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
             "name": "KEWL",
             "symbol": "KWL",
