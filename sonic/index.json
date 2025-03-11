@@ -1,6 +1,6 @@
 {
     "name": "KEWL Swap Default",
-    "timestamp": "2025-13-05T12:11:34.056Z",
+    "timestamp": "2025-11-05T12:11:34.056Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -183,14 +183,6 @@
             "symbol": "scUSD",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae/logo.svg"
-        },
-        {
-            "chainId": 146,
-            "address": "0xf4f9c50455c698834bb645089dbaa89093b93838",
-            "name": "toona",
-            "symbol": "toona",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/sonic/tokens/0xf4f9c50455c698834bb645089dbaa89093b93838/logo.svg"
         },
         {
             "chainId": 146,
