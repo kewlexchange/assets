@@ -313,6 +313,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0xCFc896fe8C791B6d1c085e69451E4B2f675a4927",
+            "name": "Wrapped Galatasaray S.K.",
+            "symbol": "WGAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
             "name": "Galatasaray S.K.",
             "symbol": "GAL",
@@ -417,6 +425,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0xbaAAEF59F4A6C11cC87FF75EAa7a386e753b2666",
+            "name": "Wrapped FC Barcelona",
+            "symbol": "WBAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x0E469D1C78421C7952E4D9626800DAd22F45361D",
             "name": "Goztepe S.K.",
             "symbol": "GOZ",
@@ -433,6 +449,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x369C0bf5B24cfc088BD1E634ecDF95F786DBF5CB",
+            "name": "Wrapped Roush Fenway Facing",
+            "symbol": "WROUSH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xba20ef1670393150d1c1b135f45043740ec3a729/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105",
             "name": "Paris Saint-Germain",
             "symbol": "PSG",
@@ -445,6 +469,14 @@
             "name": "Valencia CF",
             "symbol": "VCF",
             "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xba0c26485b1909f80476067272d74a99cc0e1d57/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0xf9ae77D7658ad1a1Ff49Ca4D082fEDb680A83373",
+            "name": "Wrapped Valencia CF",
+            "symbol": "WVCF",
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xba0c26485b1909f80476067272d74a99cc0e1d57/logo.svg"
         },
         {
@@ -545,6 +577,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x2D271B3826090872a7A79DD69FFe660367f8579d",
+            "name": "Wrapped Leeds United FC",
+            "symbol": "WLUFC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf67a8a4299f7ebf0c58dbfb38941d0867f300c30/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x05765A792a04EcC6d45102b45874bc44A95a2d7e",
             "name": "Natus Vincere",
             "symbol": "NAVI",
@@ -557,6 +597,14 @@
             "name": "São Paulo FC",
             "symbol": "SPFC",
             "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x540165b9dfdde31658f9ba0ca5504eda448bffd0/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x60175b07658694FC1c16578376c439879C05d1Cb",
+            "name": "Wrapped São Paulo FC",
+            "symbol": "WSPFC",
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x540165b9dfdde31658f9ba0ca5504eda448bffd0/logo.svg"
         },
         {
@@ -605,6 +653,14 @@
             "name": "SL Benfica",
             "symbol": "BENFICA",
             "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xad7c869f357b57bb03050183d1ba8ec465cd69dc/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0x8b11453f790726eC863422D47c2bDF6222dD0F2D",
+            "name": "Wrapped SL Benfica",
+            "symbol": "WBENFICA",
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xad7c869f357b57bb03050183d1ba8ec465cd69dc/logo.svg"
         },
         {
@@ -793,6 +849,14 @@
         },
         {
             "chainId": 88888,
+            "address": "0x07Eb6147263F2Fedb00002bAdaFc79ea769240f2",
+            "name": "Wrapped OG",
+            "symbol": "WOG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x19ca0f4adb29e2130a56b9c9422150b5dc07f294/logo.svg"
+        },
+        {
+            "chainId": 88888,
             "address": "0x539e00D2487a06F3F08CDAF7Bf7A8b4a32C3a14E",
             "name": "Harlequins",
             "symbol": "QUINS",
@@ -917,6 +981,14 @@
             "name": "Tottenham Hotspur",
             "symbol": "SPURS",
             "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92/logo.svg"
+        },
+        {
+            "chainId": 88888,
+            "address": "0xf6Bebad8bE7bb9ce05b9A71b9ab62E2e7fA58e9f",
+            "name": "Wrapped Tottenham Hotspur",
+            "symbol": "WSPURS",
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92/logo.svg"
         },
         {
