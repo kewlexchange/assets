@@ -37,7 +37,7 @@ type Tags struct{}
 
 func main() {
 	// Dosyadan JSON verisini oku
-	network := "sonic"
+	network := "chiliz"
 	filePath := fmt.Sprintf("./%s/index.json", network)
 	jsonData, err := ioutil.ReadFile(filePath)
 	if err != nil {
