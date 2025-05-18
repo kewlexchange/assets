@@ -1,0 +1,43 @@
+{
+    "name": "KEWL Swap Default",
+    "timestamp": "2024-12-05T12:11:34.056Z",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+      "chiliz",
+      "tokens",
+      "defi",
+      "refi"
+    ],
+    "tokens": [
+      {
+        "chainId": 31337,
+        "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "name": "Wrapped Hardhat",
+        "symbol": "WHAT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x677f7e16c7dd57be1d4c8ad1244883214953dc47/logo.svg"
+      },
+      {
+        "chainId": 31337,
+        "address": "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
+        "name": "KUSD",
+        "symbol": "KUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
+      },
+      {
+        "chainId": 31337,
+        "address": "0x9A676e781A523b5d0C0e43731313A708CB607508",
+        "name": "TEST Token",
+        "symbol": "TEST",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8c0b6ea89daba6516df9437a60ca481501781606/logo.svg"
+      }
+    ]
+  }
