@@ -41,11 +41,27 @@
       },
       {
         "chainId": 88888,
-        "address": "0x8c0b6ea89DABA6516df9437a60cA481501781606",
-        "name": "KAYEN Token",
-        "symbol": "KAYEN",
+        "address": "0x37C57a89812a0D492AeEd7691F1610CA0a8f74A1",
+        "name": "Tether USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x37c57a89812a0d492aeed7691f1610ca0a8f74a1/logo.svg"
+      },
+      {
+        "chainId": 88888,
+        "address": "0xa37936F56249965d407E39347528a1A91eB1cbef",
+        "name": "Bridged USDC ChainPort",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa37936f56249965d407e39347528a1a91eb1cbef/logo.svg"
+      },
+      {
+        "chainId": 88888,
+        "address": "0xfed7A6423cdeBb4c05552DC888de5acC657444F4",
+        "name": "TBT",
+        "symbol": "TBT",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8c0b6ea89daba6516df9437a60ca481501781606/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfed7a6423cdebb4c05552dc888de5acc657444f4/logo.svg"
       },
       {
         "chainId": 88888,
@@ -65,14 +81,6 @@
       },
       {
         "chainId": 88888,
-        "address": "0xfed7A6423cdeBb4c05552DC888de5acC657444F4",
-        "name": "TBT",
-        "symbol": "TBT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfed7a6423cdebb4c05552dc888de5acc657444f4/logo.svg"
-      },
-      {
-        "chainId": 88888,
         "address": "0x3720526d4d4C93B9dB7C293587ec02782dC729d9",
         "name": "Angry HOOP",
         "symbol": "ANGRY",
@@ -89,19 +97,11 @@
       },
       {
         "chainId": 88888,
-        "address": "0x37C57a89812a0D492AeEd7691F1610CA0a8f74A1",
-        "name": "Tether USDT",
-        "symbol": "USDT",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x37c57a89812a0d492aeed7691f1610ca0a8f74a1/logo.svg"
-      },
-      {
-        "chainId": 88888,
-        "address": "0xa37936F56249965d407E39347528a1A91eB1cbef",
-        "name": "Bridged USDC ChainPort",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa37936f56249965d407e39347528a1a91eb1cbef/logo.svg"
+        "address": "0x8c0b6ea89DABA6516df9437a60cA481501781606",
+        "name": "KAYEN Token",
+        "symbol": "KAYEN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8c0b6ea89daba6516df9437a60ca481501781606/logo.svg"
       },
       {
         "chainId": 88888,
