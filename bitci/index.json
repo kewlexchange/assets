@@ -25,6 +25,14 @@
     },
     {
       "chainId": 1907,
+      "name": "SIMIT",
+      "symbol": "SIMIT",
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0xD855fF86923Bdb884630d40452b6B447471952e9/logo.png",
+      "address": "0xD855fF86923Bdb884630d40452b6B447471952e9",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "gropt",
       "symbol": "GROPT",
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0x158EC7DDB302C3173aB070824F485aEf1fc62046/logo.svg",
