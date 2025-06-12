@@ -49,6 +49,14 @@
     },
     {
       "chainId": 1907,
+      "name": "Essek Token",
+      "symbol": "ESSEK",
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0x51140b2209079F398d0F63041D9Ac58dFEa04066/logo.svg",
+      "address": "0x51140b2209079F398d0F63041D9Ac58dFEa04066",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "McLaren F1 Fan Token",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
