@@ -33,6 +33,14 @@
     },
     {
       "chainId": 1907,
+      "name": "Mergen Token",
+      "symbol": "MRGN",
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MRGN.svg",
+      "address": "0x13Dd78E8078ca3278bf001fE0C21aEd6684c611B",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "NeuroPulseAI",
       "symbol": "NPAI",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NPAI.svg",
