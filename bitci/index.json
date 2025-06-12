@@ -25,6 +25,14 @@
     },
     {
       "chainId": 1907,
+      "name": "NeuroPulseAI",
+      "symbol": "NPAI",
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NPAI.svg",
+      "address": "0x02C7B38Acc83d87680B740498eF7C90B54ceb062",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "McLaren F1 Fan Token",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
@@ -301,6 +309,14 @@
       "symbol": "VTRA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/VTRA.svg",
       "address": "0x02b8efdffe96218a1fe5d3a815db3d3ee292498a",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
+      "name": "Metaguard",
+      "symbol": "MTGRD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MTGRD.svg",
+      "address": "0x1f41B1C39f82C470486022582aC443735B58b2C9",
       "decimals": 18
     }
   ]
