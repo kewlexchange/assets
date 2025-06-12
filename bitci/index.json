@@ -49,6 +49,14 @@
     },
     {
       "chainId": 1907,
+      "name": "Bitci Bonk Token",
+      "symbol": "BBK",
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0x57B8adF3F708E33E9D9BdEdc1B1aC4B2C06aB5E1/logo.svg",
+      "address": "0x57B8adF3F708E33E9D9BdEdc1B1aC4B2C06aB5E1",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "gropt",
       "symbol": "GROPT",
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0x158EC7DDB302C3173aB070824F485aEf1fc62046/logo.svg",
