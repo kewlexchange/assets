@@ -31,6 +31,14 @@
       "address": "0xD855fF86923Bdb884630d40452b6B447471952e9",
       "decimals": 18
     },
+     {
+      "chainId": 1907,
+      "name": "Bitci DOGE",
+      "symbol": "BOGE",
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0xe5E6d02564CA2dB2913A49Cf485D4185c7BAf788/logo.png",
+      "address": "0xe5E6d02564CA2dB2913A49Cf485D4185c7BAf788",
+      "decimals": 18
+    },
     {
       "chainId": 1907,
       "name": "gropt",
