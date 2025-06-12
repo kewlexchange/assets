@@ -25,6 +25,14 @@
     },
     {
       "chainId": 1907,
+      "name": "gropt",
+      "symbol": "GROPT",
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/refs/heads/main/bitci/tokens/0x158EC7DDB302C3173aB070824F485aEf1fc62046/logo.svg",
+      "address": "0x158EC7DDB302C3173aB070824F485aEf1fc62046",
+      "decimals": 18
+    },
+    {
+      "chainId": 1907,
       "name": "NeuroPulseAI",
       "symbol": "NPAI",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NPAI.svg",
