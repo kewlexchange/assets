@@ -65,19 +65,19 @@
       },
       {
         "chainId": 88888,
-        "address": "0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001",
-        "name": "ChilizInu",
-        "symbol": "ChzInu",
-        "decimals": 4,
-        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
-      },
-      {
-        "chainId": 88888,
         "address": "0x60F397acBCfB8f4e3234C659A3E10867e6fA6b67",
         "name": "PEPPER",
         "symbol": "PEPPER",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x60f397acbcfb8f4e3234c659a3e10867e6fa6b67/logo.svg"
+      },
+      {
+        "chainId": 88888,
+        "address": "0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001",
+        "name": "ChilizInu",
+        "symbol": "ChzInu",
+        "decimals": 4,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
       },
       {
         "chainId": 88888,
@@ -1425,11 +1425,20 @@
       },
       {
         "chainId": 88888,
+        "name": "DOJO",
+        "symbol": "DOJO",
+        "address": "0xb66D72efc5fD77A8F9Dc2E7c0f14304828956644",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xb66D72efc5fD77A8F9Dc2E7c0f14304828956644/logo.png"
+      },
+      {
+        "chainId": 88888,
         "name": "Wrapped Johor Darul Tazim F.C",
         "symbol": "WJDT",
         "address": "0xdc9cAd4bceb669E823aEB30e80F2d124b0a58b6b",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
       }
+
     ]
   }
