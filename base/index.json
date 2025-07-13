@@ -49,14 +49,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x4200000000000000000000000000000000000006",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
-        },
-        {
-            "chainId": 8453,
             "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
             "name": "Compound",
             "symbol": "COMP",
