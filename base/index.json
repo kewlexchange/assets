@@ -25,6 +25,14 @@
         },
         {
             "chainId": 8453,
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
             "name": "USD Base Coin",
             "symbol": "USDbC",
@@ -62,14 +70,6 @@
             "symbol": "ZRX",
             "decimals": 18,
             "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
         },
         {
             "chainId": 8453,
@@ -822,14 +822,6 @@
             "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x10c1B6f768e13c624A4A23337f1a5bA5c9BE0E4B.jpg",
             "name": "Warpie",
             "symbol": "WARPIE"
-        },
-        {
-            "address": "0x4200000000000000000000000000000000000006",
-            "chainId": 8453,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x4200000000000000000000000000000000000006.jpg",
-            "name": "Wrapped Ether",
-            "symbol": "WETH"
         },
         {
             "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
