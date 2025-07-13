@@ -808,14 +808,6 @@
             "symbol": "USDbc"
         },
         {
-            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-            "chainId": 8453,
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.jpg",
-            "name": "USD Coin",
-            "symbol": "USDC"
-        },
-        {
             "address": "0x5A76A56ad937335168b30dF3AA1327277421C6Ae",
             "chainId": 8453,
             "decimals": 18,
@@ -878,6 +870,14 @@
             "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
             "name": "0x Protocol Token",
             "symbol": "ZRX"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e",
+            "name": "Treble Token",
+            "symbol": "TREB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_TREB.svg"
         }
     ]
 }
