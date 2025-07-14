@@ -30,12 +30,28 @@
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/bsc/tokens/0x89091871A6871CbeC96AF36648c63752d0fe649C/logo.jpg"
     },
     {
+      "name": "SociaPol",
+      "symbol": "SPOL",
+      "address": "0xf897176B529A6B9f0412459d872cda4Ed6d395D8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/bsc/tokens/0xf897176B529A6B9f0412459d872cda4Ed6d395D8/logo.png"
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "chainId": 56,
+      "symbol": "VINU",
+      "name": "Vita Inu",
+      "decimals": 18,
+      "address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa.png"
     },
     {
       "name": "8PAY Network v2",
@@ -3564,14 +3580,6 @@
       "decimals": 18,
       "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d.png"
-    },
-    {
-      "chainId": 56,
-      "symbol": "VINU",
-      "name": "Vita Inu",
-      "decimals": 18,
-      "address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa.png"
     },
     {
       "chainId": 56,
