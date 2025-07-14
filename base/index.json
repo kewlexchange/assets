@@ -49,6 +49,14 @@
         },
         {
             "chainId": 8453,
+            "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+            "name": "Virtual Protocol",
+            "symbol": "VIRTUAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/base/tokens/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b/logo.webp"
+        },
+        {
+            "chainId": 8453,
             "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
