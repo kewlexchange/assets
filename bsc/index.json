@@ -22,6 +22,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
+      "name": "Pet Token",
+      "symbol": "PETT",
+      "address": "0x89091871A6871CbeC96AF36648c63752d0fe649C",
+      "chainId": 56,
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/bsc/tokens/0x89091871A6871CbeC96AF36648c63752d0fe649C/logo.jpg"
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
