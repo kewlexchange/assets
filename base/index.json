@@ -29,6 +29,14 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x37c57a89812a0d492aeed7691f1610ca0a8f74a1/logo.svg"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+            "name": "Bridged Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
             "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
         },
         {
