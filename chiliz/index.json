@@ -106,6 +106,14 @@
       },
       {
         "chainId": 88888,
+        "address": "0x8c0b6ea89DABA6516df9437a60cA481501781606",
+        "name": "KAYEN Token",
+        "symbol": "KAYEN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8c0b6ea89daba6516df9437a60ca481501781606/logo.svg"
+      },
+      {
+        "chainId": 88888,
         "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
         "name": "Galatasaray S.K.",
         "symbol": "GAL",
