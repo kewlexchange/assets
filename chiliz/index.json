@@ -1,10 +1,10 @@
 {
     "name": "KEWL Swap Default",
-    "timestamp": "2024-12-05T12:11:34.056Z",
+    "timestamp": "2025-09-05T12:11:34.056Z",
     "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
+      "major": 1,
+      "minor": 1,
+      "patch": 1
     },
     "tags": {},
     "logoURI": "",
