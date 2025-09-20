@@ -1422,6 +1422,22 @@
       "address": "0xdc9cAd4bceb669E823aEB30e80F2d124b0a58b6b",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
+    },
+    {
+      "chainId": 88888,
+      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+      "name": "Intelligent Monsters",
+      "symbol": "IMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
+    },
+    {
+      "chainId": 88888,
+      "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
+      "name": "Footy Fan",
+      "symbol": "FAFO",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
     }
   ]
 }
