@@ -97,14 +97,6 @@
     },
     {
       "chainId": 88888,
-      "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
-      "name": "Footy Fan",
-      "symbol": "FAFO",
-      "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
-    },
-    {
-      "chainId": 88888,
       "address": "0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC",
       "name": "Cat Chiliz",
       "symbol": "CATCHI",
