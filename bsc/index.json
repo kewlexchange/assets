@@ -21,6 +21,14 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
+     {
+      "name": "Altai USD",
+      "symbol": "AUSD",
+      "address": "0x99ebb9bfa6af26e483fd55f92715321eb4c93aa9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/bsc/tokens/0x99ebb9bfa6af26e483fd55f92715321eb4c93aa9/logo.svg"
+    },
     {
       "name": "Pet Token",
       "symbol": "PETT",
