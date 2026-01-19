@@ -2054,14 +2054,6 @@
       "symbol": "JDT",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x12129ad866906ab5aa456ae1ebaea9e8a13e8197/logo.svg"
-    },
-    {
-      "chainId": 88888,
-      "address": "0x1257C62822B6A0736245F88E55347e780ca60206",
-      "name": "Football at AlphaVerse",
-      "symbol": "FAV",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1257c62822b6a0736245f88e55347e780ca60206/logo.svg"
     }
   ]
 }
