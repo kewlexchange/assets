@@ -31,15 +31,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
     },
-  {
-      "chainId": 88888,
-      "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
-      "name": "IMON",
-      "symbol": "IMON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27/logo.svg"
-    },
-    
     {
       "chainId": 88888,
       "address": "0xfed7A6423cdeBb4c05552DC888de5acC657444F4",
@@ -87,6 +78,22 @@
       "symbol": "SUCK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+    },
+    {
+      "chainId": 88888,
+      "address": "0x3720526d4d4C93B9dB7C293587ec02782dC729d9",
+      "name": "Angry HOOP",
+      "symbol": "ANGRY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
+    },
+    {
+      "chainId": 88888,
+      "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
+      "name": "Footy Fan",
+      "symbol": "FAFO",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
     },
     {
       "chainId": 88888,
