@@ -32,6 +32,15 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo.svg"
         },
+            {
+            "chainId": 43114,
+            "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+            "name": "WBTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo.svg"
+        },
+        
         {
             "chainId": 43114,
             "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
