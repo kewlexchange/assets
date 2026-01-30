@@ -24,6 +24,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/logo.svg"
         },
+               {
+            "chainId": 43114,
+            "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+            "name": "ARENA",
+            "symbol": "ARENA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/avax/tokens/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C/logo.svg"
+        },
         {
             "chainId": 43114,
             "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
