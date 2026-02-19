@@ -1073,9 +1073,9 @@
     },
     {
       "chainId": 88888,
-      "name": "Wrapped Dinamo Zagreb",
-      "symbol": "WDZG",
-      "address": "0xD97215C8515688d1573B058b9D30bA04A6Af6aa2",
+      "name": "Dinamo Zagreb",
+      "symbol": "DZG",
+      "address": "0x03bE2eA82839FBD8b6ab16aDdEba3FE4C88bB43F",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x6412afdfdf2a465b2e2464a5f9d1743a9cffd6ff/logo.svg"
     },
